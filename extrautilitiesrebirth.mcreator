@@ -5623,6 +5623,15 @@
       "locked_code": false,
       "registry_name": "sorting_machine",
       "path": "~/Machines"
+    },
+    {
+      "name": "SorterGUI",
+      "type": "gui",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sorter_gui",
+      "path": "~/Machines/GUIs"
     }
   ],
   "variable_elements": [

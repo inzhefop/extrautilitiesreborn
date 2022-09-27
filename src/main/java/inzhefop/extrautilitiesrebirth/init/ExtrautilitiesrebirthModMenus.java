@@ -16,6 +16,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 import inzhefop.extrautilitiesrebirth.world.inventory.TrashCanGUIMenu;
+import inzhefop.extrautilitiesrebirth.world.inventory.SorterGUIMenu;
 import inzhefop.extrautilitiesrebirth.world.inventory.ResonantorGUIMenu;
 import inzhefop.extrautilitiesrebirth.world.inventory.NormalGUIMenu;
 import inzhefop.extrautilitiesrebirth.world.inventory.MechanicalUserGUIMenu;
@@ -51,6 +52,7 @@ public class ExtrautilitiesrebirthModMenus {
 			(id, inv, extraData) -> new GoldenChestGUIMenu(id, inv, extraData));
 	public static final MenuType<EnderQuarryGUIMenu> ENDER_QUARRY_GUI = register("ender_quarry_gui",
 			(id, inv, extraData) -> new EnderQuarryGUIMenu(id, inv, extraData));
+	public static final MenuType<SorterGUIMenu> SORTER_GUI = register("sorter_gui", (id, inv, extraData) -> new SorterGUIMenu(id, inv, extraData));
 
 	private static <T extends AbstractContainerMenu> MenuType<T> register(String registryname, IContainerFactory<T> containerFactory) {
 		MenuType<T> menuType = new MenuType<T>(containerFactory);

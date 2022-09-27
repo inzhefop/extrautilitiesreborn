@@ -12,6 +12,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.client.gui.screens.MenuScreens;
 
 import inzhefop.extrautilitiesrebirth.client.gui.TrashCanGUIScreen;
+import inzhefop.extrautilitiesrebirth.client.gui.SorterGUIScreen;
 import inzhefop.extrautilitiesrebirth.client.gui.ResonantorGUIScreen;
 import inzhefop.extrautilitiesrebirth.client.gui.NormalGUIScreen;
 import inzhefop.extrautilitiesrebirth.client.gui.MechanicalUserGUIScreen;
@@ -39,6 +40,7 @@ public class ExtrautilitiesrebirthModScreens {
 			MenuScreens.register(ExtrautilitiesrebirthModMenus.GOLDEN_BAG_GUI, GoldenBagGUIScreen::new);
 			MenuScreens.register(ExtrautilitiesrebirthModMenus.GOLDEN_CHEST_GUI, GoldenChestGUIScreen::new);
 			MenuScreens.register(ExtrautilitiesrebirthModMenus.ENDER_QUARRY_GUI, EnderQuarryGUIScreen::new);
+			MenuScreens.register(ExtrautilitiesrebirthModMenus.SORTER_GUI, SorterGUIScreen::new);
 		});
 	}
 }

@@ -1,0 +1,15 @@
+{
+  "_fv": 33,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:RedCoal"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 11200.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.0
+  }
+}

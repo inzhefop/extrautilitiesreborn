@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:ineffable_glass",
+    "count": 4
+  }
+}

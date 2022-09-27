@@ -1,0 +1,35 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EnderLillyStage1"
+      },
+      {
+        "value": "CUSTOM:EnderLillyStage2"
+      },
+      {
+        "value": "CUSTOM:EnderLillyStage3"
+      },
+      {
+        "value": "CUSTOM:EnderLillyStage4"
+      },
+      {
+        "value": "CUSTOM:EnderLillyStage6"
+      },
+      {
+        "value": "CUSTOM:EnderLillyStage5"
+      },
+      {
+        "value": "CUSTOM:EnderLillyStage7"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ungrown_ender_lilly_states",
+    "namespace": "forge"
+  }
+}

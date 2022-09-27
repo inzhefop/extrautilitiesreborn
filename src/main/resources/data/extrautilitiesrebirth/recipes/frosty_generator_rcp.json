@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:snowball"
+    },
+    "1": {
+      "item": "minecraft:snowball"
+    },
+    "2": {
+      "item": "minecraft:snowball"
+    },
+    "3": {
+      "item": "minecraft:snowball"
+    },
+    "4": {
+      "item": "minecraft:ice"
+    },
+    "5": {
+      "item": "minecraft:snowball"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:furnace_generator"
+    },
+    "8": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:frosty_generator_1",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "survival_generator_top"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:ineffable_glass"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:ineffable_inverted_glass",
+    "count": 1
+  }
+}

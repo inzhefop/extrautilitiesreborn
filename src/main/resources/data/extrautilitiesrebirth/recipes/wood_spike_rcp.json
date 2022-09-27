@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:wooden_sword"
+    },
+    "3": {
+      "item": "minecraft:wooden_sword"
+    },
+    "4": {
+      "tag": "minecraft:planks"
+    },
+    "5": {
+      "item": "minecraft:wooden_sword"
+    },
+    "6": {
+      "tag": "minecraft:planks"
+    },
+    "7": {
+      "item": "minecraft:oak_log"
+    },
+    "8": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:wood_spike",
+    "count": 4
+  }
+}

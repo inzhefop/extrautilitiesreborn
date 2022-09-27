@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/interact_side_up",
+    "up": "extrautilitiesrebirth:blocks/interact_side",
+    "north": "extrautilitiesrebirth:blocks/inv_interface",
+    "east": "extrautilitiesrebirth:blocks/interact_side_left",
+    "south": "extrautilitiesrebirth:blocks/interact_back",
+    "west": "extrautilitiesrebirth:blocks/interact_side_right",
+    "particle": "extrautilitiesrebirth:blocks/interact_side_up"
+  }
+}

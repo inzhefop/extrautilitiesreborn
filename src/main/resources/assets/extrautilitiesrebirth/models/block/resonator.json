@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/resonatorv1",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/resonator_texture_model",
+    "particle": "extrautilitiesrebirth:blocks/resonator_texture_model",
+    "texture": "extrautilitiesrebirth:blocks/resonator_texture_model"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:polished_stone"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:redstone_crystal"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:polished_stone"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:lunar_panel",
+    "count": 3
+  }
+}

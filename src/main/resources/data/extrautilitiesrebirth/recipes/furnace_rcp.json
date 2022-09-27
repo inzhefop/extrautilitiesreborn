@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brick"
+    },
+    "1": {
+      "item": "minecraft:brick"
+    },
+    "2": {
+      "item": "minecraft:brick"
+    },
+    "3": {
+      "item": "minecraft:brick"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:machine_block"
+    },
+    "5": {
+      "item": "minecraft:brick"
+    },
+    "6": {
+      "item": "minecraft:brick"
+    },
+    "7": {
+      "item": "minecraft:brick"
+    },
+    "8": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:furnace",
+    "count": 1
+  }
+}

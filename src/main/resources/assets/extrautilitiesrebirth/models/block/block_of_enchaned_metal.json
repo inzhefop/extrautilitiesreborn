@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/block_of_enchanted_metal",
+    "up": "extrautilitiesrebirth:blocks/block_of_enchanted_metal",
+    "north": "extrautilitiesrebirth:blocks/block_of_enchanted_metal",
+    "east": "extrautilitiesrebirth:blocks/block_of_enchanted_metal",
+    "south": "extrautilitiesrebirth:blocks/block_of_enchanted_metal",
+    "west": "extrautilitiesrebirth:blocks/block_of_enchanted_metal",
+    "particle": "extrautilitiesrebirth:blocks/block_of_enchanted_metal"
+  }
+}

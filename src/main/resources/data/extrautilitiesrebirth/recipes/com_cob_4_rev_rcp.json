@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:quadruple_compressed_cobblestone"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:triple_compressed_cobblestone",
+    "count": 9
+  }
+}

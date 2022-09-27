@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/spike-1.1-gold",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/gold_block",
+    "particle": "extrautilitiesrebirth:blocks/gold_block",
+    "texture": "extrautilitiesrebirth:blocks/gold_block"
+  }
+}

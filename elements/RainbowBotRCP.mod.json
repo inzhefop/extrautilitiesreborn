@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NetherstarGenerator"
+      },
+      {
+        "value": "CUSTOM:OverclockedGenerator"
+      },
+      {
+        "value": "CUSTOM:PinkGenerator"
+      },
+      {
+        "value": "CUSTOM:PotionGenerator1"
+      },
+      {
+        "value": "CUSTOM:RedstoneCrystal"
+      },
+      {
+        "value": "CUSTOM:RedstoneGenerator"
+      },
+      {
+        "value": "CUSTOM:SlimeyGenerator"
+      },
+      {
+        "value": "CUSTOM:SurvivalGenerator"
+      },
+      {
+        "value": "CUSTOM:TNTGenerator"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RainbowGeneratorBottom"
+    },
+    "name": "rainbow_bot_rcp",
+    "namespace": "mod"
+  }
+}

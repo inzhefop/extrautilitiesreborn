@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:wool"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "tag": "minecraft:wool"
+    },
+    "3": {
+      "item": "minecraft:gold_ingot"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "minecraft:gold_ingot"
+    },
+    "6": {
+      "tag": "minecraft:wool"
+    },
+    "7": {
+      "item": "minecraft:gold_block"
+    },
+    "8": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:golden_bag_of_holding",
+    "count": 1
+  }
+}

@@ -1,0 +1,53 @@
+def extraModsDir = 'extra-mods-1.18.2'
+task addnewfoldersmods(type: DefaultTask){
+  ant.mkdir(dir: 'extra-mods-1.18.2/');
+}
+repositories {
+  flatDir {
+  name "extra-mods" 
+  dir file(extraModsDir)
+  }
+}
+
+dependencies 
+{
+  for (extraModJar in fileTree(dir: extraModsDir, include: '*.jar')) {
+  def basename = extraModJar.name.substring(0, extraModJar.name.length() - ".jar".length()) 
+  def versionSep = basename.lastIndexOf('-') 
+  assert versionSep != -1 
+  def artifactId = basename.substring(0, versionSep) 
+  def version = basename.substring(versionSep + 1)
+  runtimeOnly fg.deobf("extra-mods:$artifactId:$version")}
+}
+
+minecraft {
+ mappings channel: 'official', version: '1.18.2'
+  accessTransformer = file('src/main/resources/META-INF/accesstransformer.cfg')
+ runs {
+  client {
+      workingDirectory project.file('run')
+      property 'forge.logging.markers', 'REGISTRIES'
+      property 'forge.logging.console.level', 'debug'
+      property 'mixin.env.remapRefMap', 'true'
+      property 'mixin.env.refMapRemappingFile', "${buildDir}/createSrgToMcp/output.srg"
+      mods {
+          examplemod {
+              source sourceSets.main
+          }
+      }
+  }
+  server {
+      workingDirectory project.file('run')
+      property 'forge.logging.markers', 'REGISTRIES'
+      property 'forge.logging.console.level', 'debug'
+      property 'mixin.env.remapRefMap', 'true'
+      property 'mixin.env.refMapRemappingFile', "${buildDir}/createSrgToMcp/output.srg"
+      mods {
+          examplemod {
+              source sourceSets.main
+          }
+      }
+        }
+      }
+          }
+

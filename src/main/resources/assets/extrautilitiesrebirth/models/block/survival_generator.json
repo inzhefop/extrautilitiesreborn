@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/survival_generator_top",
+    "up": "extrautilitiesrebirth:blocks/survival_generator_top",
+    "north": "extrautilitiesrebirth:blocks/survival_generator_front",
+    "east": "extrautilitiesrebirth:blocks/survival_generator_side",
+    "south": "extrautilitiesrebirth:blocks/survival_generator_side",
+    "west": "extrautilitiesrebirth:blocks/survival_generator_side",
+    "particle": "extrautilitiesrebirth:blocks/survival_generator_top"
+  }
+}

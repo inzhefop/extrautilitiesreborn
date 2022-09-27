@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:ender_infused_obsidian"
+    },
+    "1": {
+      "tag": "minecraft:saplings"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:ender_infused_obsidian"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:ender_core"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:diamond_edged_computational_matrix"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:ender_core"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:ender_thermic_pump"
+    },
+    "7": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:ender_thermic_pump"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:ender_quarry",
+    "count": 1
+  }
+}

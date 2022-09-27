@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/goldf_chest",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/gold_chest",
+    "particle": "extrautilitiesrebirth:blocks/gold_chest",
+    "texture": "extrautilitiesrebirth:blocks/gold_chest"
+  }
+}

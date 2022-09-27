@@ -1,0 +1,38 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.ICE"
+      },
+      {
+        "value": "Blocks.PACKED_ICE"
+      },
+      {
+        "value": "Blocks.FROSTED_ICE"
+      },
+      {
+        "value": "Blocks.BLUE_ICE"
+      },
+      {
+        "value": "Blocks.SNOW_LAYER"
+      },
+      {
+        "value": "Blocks.SNOW"
+      },
+      {
+        "value": "Blocks.POWDER_SNOW"
+      },
+      {
+        "value": "Items.SNOWBALL"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "frosty_gen_tag",
+    "namespace": "forge"
+  }
+}

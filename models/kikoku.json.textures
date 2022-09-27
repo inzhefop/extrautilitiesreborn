@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "rwtema_blade"
+      },
+      "name": "default"
+    }
+  }
+}

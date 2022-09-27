@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/block_of_evel_infused_iron",
+    "up": "extrautilitiesrebirth:blocks/block_of_evel_infused_iron",
+    "north": "extrautilitiesrebirth:blocks/block_of_evel_infused_iron",
+    "east": "extrautilitiesrebirth:blocks/block_of_evel_infused_iron",
+    "south": "extrautilitiesrebirth:blocks/block_of_evel_infused_iron",
+    "west": "extrautilitiesrebirth:blocks/block_of_evel_infused_iron",
+    "particle": "extrautilitiesrebirth:blocks/block_of_evel_infused_iron"
+  }
+}

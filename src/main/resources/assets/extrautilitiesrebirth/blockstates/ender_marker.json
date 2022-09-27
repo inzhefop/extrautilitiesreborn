@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/ender_marker"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/ender_marker",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/ender_marker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/ender_marker",
+      "y": 270
+    }
+  }
+}

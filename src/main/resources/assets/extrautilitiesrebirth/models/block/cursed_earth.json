@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/dirt",
+    "up": "extrautilitiesrebirth:blocks/grass_block_top",
+    "north": "extrautilitiesrebirth:blocks/grass_block_side",
+    "east": "extrautilitiesrebirth:blocks/grass_block_side",
+    "south": "extrautilitiesrebirth:blocks/grass_block_side",
+    "west": "extrautilitiesrebirth:blocks/grass_block_side",
+    "particle": "extrautilitiesrebirth:blocks/dirt"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "1": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "2": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:polished_stone"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:redstone_crystal"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:polished_stone"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:solar_panel",
+    "count": 3
+  }
+}

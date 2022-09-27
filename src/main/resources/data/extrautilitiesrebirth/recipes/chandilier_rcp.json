@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "minecraft:torch"
+    },
+    "4": {
+      "item": "minecraft:torch"
+    },
+    "5": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:chandelier",
+    "count": 1
+  }
+}

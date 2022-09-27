@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/quantum_quarry_actuator"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/quantum_quarry_actuator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/quantum_quarry_actuator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/quantum_quarry_actuator",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "extrautilitiesrebirth:block/quantum_quarry_actuator",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "extrautilitiesrebirth:block/quantum_quarry_actuator",
+      "x": 90
+    }
+  }
+}

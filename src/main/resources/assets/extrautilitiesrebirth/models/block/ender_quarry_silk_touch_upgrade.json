@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/silk",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/quarryupgrade2",
+    "particle": "extrautilitiesrebirth:blocks/quarryupgrade2",
+    "texture": "extrautilitiesrebirth:blocks/quarryupgrade2"
+  }
+}

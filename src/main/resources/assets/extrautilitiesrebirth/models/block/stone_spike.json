@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/spike-1.1-stone",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/survival_generator_top",
+    "particle": "extrautilitiesrebirth:blocks/survival_generator_top",
+    "texture": "extrautilitiesrebirth:blocks/survival_generator_top"
+  }
+}

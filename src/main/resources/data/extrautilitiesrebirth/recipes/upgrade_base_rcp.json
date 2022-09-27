@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "extrautilitiesrebirth:ender_infused_obsidian"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:ender_infused_obsidian"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:quartzburnt"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:ender_infused_obsidian"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:ender_infused_obsidian"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:ender_quarry_upgrade_base",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:netherstar_generator"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:overclocked_generator"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:pink_generator"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:potion_generator_1"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:redstone_crystal"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:redstone_generator"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:slimey_generator"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:survival_generator"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:tnt_generator"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:rainbow_generator_bottom",
+    "count": 1
+  }
+}

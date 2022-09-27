@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    },
+    "4": {
+      "item": "minecraft:black_dye"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:ethereal_glass"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:dark_ethereal_glass",
+    "count": 8
+  }
+}

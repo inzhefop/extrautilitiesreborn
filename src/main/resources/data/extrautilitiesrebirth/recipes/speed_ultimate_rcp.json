@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:dropof_evil"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:evil_infused_iron_ingot"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:dropof_evil"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:evil_infused_iron_ingot"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:enchanted_speed_upgrade"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:evil_infused_iron_ingot"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:dropof_evil"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:evil_infused_iron_ingot"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:dropof_evil"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:super_speed_upgrade",
+    "count": 1
+  }
+}

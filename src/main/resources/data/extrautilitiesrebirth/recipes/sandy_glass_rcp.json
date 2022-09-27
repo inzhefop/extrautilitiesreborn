@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand"
+    },
+    "1": {
+      "item": "minecraft:glass"
+    },
+    "2": {
+      "item": "minecraft:sand"
+    },
+    "3": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:sandy_glass",
+    "count": 4
+  }
+}

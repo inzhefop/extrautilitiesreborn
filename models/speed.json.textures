@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "quarryupgrade6"
+      },
+      "name": "default"
+    }
+  }
+}

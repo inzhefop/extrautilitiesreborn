@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/glass",
+    "up": "extrautilitiesrebirth:blocks/glass",
+    "north": "extrautilitiesrebirth:blocks/glass",
+    "east": "extrautilitiesrebirth:blocks/glass",
+    "south": "extrautilitiesrebirth:blocks/glass",
+    "west": "extrautilitiesrebirth:blocks/glass",
+    "particle": "extrautilitiesrebirth:blocks/glass"
+  }
+}

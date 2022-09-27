@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:double_compressed_sand"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:compressed_sand",
+    "count": 9
+  }
+}

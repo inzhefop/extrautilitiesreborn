@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.STAINED_GLASS"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS"
+      },
+      {
+        "value": "CUSTOM:MoonStone"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EtherealGlass"
+    },
+    "name": "ethereal_glass_rcp",
+    "namespace": "mod"
+  }
+}

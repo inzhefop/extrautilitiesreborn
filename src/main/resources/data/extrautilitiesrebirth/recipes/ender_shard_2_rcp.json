@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "extrautilitiesrebirth:reinforced_glass_cutter"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:ender_shard",
+    "count": 8
+  }
+}

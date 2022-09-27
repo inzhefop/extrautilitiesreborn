@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/fe_transmitter"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/fe_transmitter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/fe_transmitter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/fe_transmitter",
+      "y": 270
+    }
+  }
+}

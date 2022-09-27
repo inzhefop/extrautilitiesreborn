@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.SAPLING"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.SAPLING"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.SAPLING"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OverworldPortal"
+    },
+    "name": "overworld_portal_rcp",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "1": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "2": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "3": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:furnace_generator"
+    },
+    "8": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:netherstar_generator",
+    "count": 1
+  }
+}

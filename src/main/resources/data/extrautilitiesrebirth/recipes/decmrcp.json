@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:quartzburnt"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:quartzburnt"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:ender_infused_obsidian"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:quartzburnt"
+    },
+    "7": {
+      "item": "minecraft:diamond"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:quartzburnt"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:diamond_edged_computational_matrix",
+    "count": 1
+  }
+}

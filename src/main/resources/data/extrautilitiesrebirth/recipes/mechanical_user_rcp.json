@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dropper"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:redstone_crystal"
+    },
+    "2": {
+      "item": "minecraft:lever"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:mechanical_user",
+    "count": 1
+  }
+}

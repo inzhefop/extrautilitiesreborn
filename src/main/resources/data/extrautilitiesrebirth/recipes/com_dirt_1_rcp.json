@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dirt"
+    },
+    "1": {
+      "item": "minecraft:dirt"
+    },
+    "2": {
+      "item": "minecraft:dirt"
+    },
+    "3": {
+      "item": "minecraft:dirt"
+    },
+    "4": {
+      "item": "minecraft:dirt"
+    },
+    "5": {
+      "item": "minecraft:dirt"
+    },
+    "6": {
+      "item": "minecraft:dirt"
+    },
+    "7": {
+      "item": "minecraft:dirt"
+    },
+    "8": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:compressed_dirt",
+    "count": 1
+  }
+}

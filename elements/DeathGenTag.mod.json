@@ -1,0 +1,26 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.ROTTEN_FLESH"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "death_gen_tag",
+    "namespace": "forge"
+  }
+}

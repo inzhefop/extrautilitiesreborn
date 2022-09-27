@@ -1,0 +1,143 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "<BNBT:text:machine>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "<BNBT:text:machine>",
+          "x": 132,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 132,
+          "y": 108
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 186,
+          "y": 72
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 132,
+          "y": 54
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "upgrade_icon.png",
+          "use1Xscale": false,
+          "name": "upgrade_icon.png",
+          "x": 133,
+          "y": 55
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "CrossReturn"
+          },
+          "name": "arrow.png",
+          "x": 204,
+          "y": 72
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "kreuz.png",
+          "use1Xscale": false,
+          "name": "kreuz.png",
+          "x": 213,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "energy_bar_holder.png",
+          "use1Xscale": false,
+          "name": "energy_bar_holder.png",
+          "x": 276,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "energybarfill.png",
+          "use1Xscale": false,
+          "name": "energybarfill.png",
+          "x": 277,
+          "y": 45
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Toggle",
+          "onClick": {
+            "name": "ToggleBtn"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Toggle",
+          "x": 132,
+          "y": 74
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/block_of_demon_metal",
+    "up": "extrautilitiesrebirth:blocks/block_of_demon_metal",
+    "north": "extrautilitiesrebirth:blocks/block_of_demon_metal",
+    "east": "extrautilitiesrebirth:blocks/block_of_demon_metal",
+    "south": "extrautilitiesrebirth:blocks/block_of_demon_metal",
+    "west": "extrautilitiesrebirth:blocks/block_of_demon_metal",
+    "particle": "extrautilitiesrebirth:blocks/block_of_demon_metal"
+  }
+}

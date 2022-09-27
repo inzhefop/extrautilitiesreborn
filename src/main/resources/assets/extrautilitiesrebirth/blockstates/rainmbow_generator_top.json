@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrautilitiesrebirth:block/rainmbow_generator_top"
+    },
+    "type=top": {
+      "model": "extrautilitiesrebirth:block/rainmbow_generator_top_top"
+    },
+    "type=double": {
+      "model": "extrautilitiesrebirth:block/rainmbow_generator_top_full"
+    }
+  }
+}

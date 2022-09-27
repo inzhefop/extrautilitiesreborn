@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/magmatic_top",
+    "up": "extrautilitiesrebirth:blocks/magmatic_top",
+    "north": "extrautilitiesrebirth:blocks/magmatic_front",
+    "east": "extrautilitiesrebirth:blocks/magmatic_side",
+    "south": "extrautilitiesrebirth:blocks/magmatic_side",
+    "west": "extrautilitiesrebirth:blocks/magmatic_side",
+    "particle": "extrautilitiesrebirth:blocks/magmatic_top"
+  }
+}

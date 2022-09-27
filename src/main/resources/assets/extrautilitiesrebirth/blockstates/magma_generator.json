@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/magma_generator"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/magma_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/magma_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/magma_generator",
+      "y": 270
+    }
+  }
+}

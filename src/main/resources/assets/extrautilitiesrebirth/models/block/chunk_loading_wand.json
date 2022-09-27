@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/chunker-1.2",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/chunker",
+    "particle": "extrautilitiesrebirth:blocks/chunker",
+    "texture": "extrautilitiesrebirth:blocks/chunker"
+  }
+}

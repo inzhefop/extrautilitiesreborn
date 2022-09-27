@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:overworld_portal"
+    },
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "minecraft:light_weighted_pressure_plate"
+    },
+    "3": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:portable_globe",
+    "count": 1
+  }
+}

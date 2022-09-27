@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DYE#1"
+      },
+      {
+        "value": "CUSTOM:BedrockiumIngot"
+      },
+      {
+        "value": "Items.DYE#1"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:HealingAxe"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:UnstableIngot"
+      },
+      {
+        "value": "CUSTOM:BedrockiumIngot"
+      },
+      {
+        "value": "CUSTOM:UnstableIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FireAxe"
+    },
+    "name": "fire_axe_rcp",
+    "namespace": "mod"
+  }
+}

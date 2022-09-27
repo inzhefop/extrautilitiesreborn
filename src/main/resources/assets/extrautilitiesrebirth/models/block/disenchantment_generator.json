@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/disenchantment_top",
+    "up": "extrautilitiesrebirth:blocks/disenchantment_top2",
+    "north": "extrautilitiesrebirth:blocks/disenchantment_front",
+    "east": "extrautilitiesrebirth:blocks/disenchantment_side",
+    "south": "extrautilitiesrebirth:blocks/disenchantment_side",
+    "west": "extrautilitiesrebirth:blocks/disenchantment_side",
+    "particle": "extrautilitiesrebirth:blocks/disenchantment_top"
+  }
+}

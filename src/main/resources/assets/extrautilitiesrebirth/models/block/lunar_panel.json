@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/lunar",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/lunar_panel",
+    "particle": "extrautilitiesrebirth:blocks/lunar_panel",
+    "texture": "extrautilitiesrebirth:blocks/lunar_panel"
+  }
+}

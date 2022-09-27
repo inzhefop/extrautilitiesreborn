@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:magical_apple"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:enchanted_ingot"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:magical_apple"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:enchanted_ingot"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:speed_upgrade"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:enchanted_ingot"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:magical_apple"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:enchanted_ingot"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:magical_apple"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:enchanted_speed_upgrade",
+    "count": 1
+  }
+}

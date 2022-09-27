@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:small_flowers"
+    },
+    "1": {
+      "item": "minecraft:ender_eye"
+    },
+    "2": {
+      "tag": "minecraft:small_flowers"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:ender_lilly_stage_1",
+    "count": 1
+  }
+}

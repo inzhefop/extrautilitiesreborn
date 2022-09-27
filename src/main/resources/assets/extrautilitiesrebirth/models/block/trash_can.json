@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/trashcan",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/trash-can",
+    "particle": "extrautilitiesrebirth:blocks/trash-can",
+    "texture": "extrautilitiesrebirth:blocks/trash-can"
+  }
+}

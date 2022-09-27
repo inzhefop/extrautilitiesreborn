@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/pink_top",
+    "up": "extrautilitiesrebirth:blocks/pink_top",
+    "north": "extrautilitiesrebirth:blocks/pink_front",
+    "east": "extrautilitiesrebirth:blocks/pink_side",
+    "south": "extrautilitiesrebirth:blocks/pink_side",
+    "west": "extrautilitiesrebirth:blocks/pink_side",
+    "particle": "extrautilitiesrebirth:blocks/pink_top"
+  }
+}

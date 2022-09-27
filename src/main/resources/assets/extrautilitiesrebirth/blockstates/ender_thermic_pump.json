@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/ender_thermic_pump"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/ender_thermic_pump",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/ender_thermic_pump",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/ender_thermic_pump",
+      "y": 270
+    }
+  }
+}

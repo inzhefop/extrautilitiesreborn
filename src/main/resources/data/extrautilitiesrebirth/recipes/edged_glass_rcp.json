@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:clean_glass"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:edged_glass",
+    "count": 1
+  }
+}

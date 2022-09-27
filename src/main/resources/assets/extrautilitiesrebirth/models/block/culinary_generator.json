@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/culinary_top",
+    "up": "extrautilitiesrebirth:blocks/culinary_top",
+    "north": "extrautilitiesrebirth:blocks/culnary_front",
+    "east": "extrautilitiesrebirth:blocks/culnary_side",
+    "south": "extrautilitiesrebirth:blocks/culnary_side",
+    "west": "extrautilitiesrebirth:blocks/culnary_side",
+    "particle": "extrautilitiesrebirth:blocks/culinary_top"
+  }
+}

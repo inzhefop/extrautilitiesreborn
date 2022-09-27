@@ -1,0 +1,7 @@
+{
+  "parent": "extrautilitiesrebirth:custom/kikoku_v5",
+  "textures": {
+    "texture": "extrautilitiesrebirth:blocks/rwtema_blade",
+    "particle": "extrautilitiesrebirth:items/rwtema_blade"
+  }
+}

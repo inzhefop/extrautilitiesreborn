@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "CUSTOM:MagicalWood"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "Items.APPLE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MagicalApple"
+    },
+    "name": "magical_apple_rcp",
+    "namespace": "mod"
+  }
+}

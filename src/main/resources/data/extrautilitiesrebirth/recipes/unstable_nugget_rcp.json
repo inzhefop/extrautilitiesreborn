@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_nugget"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:devision_sigil"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:unstable_nugget",
+    "count": 1
+  }
+}

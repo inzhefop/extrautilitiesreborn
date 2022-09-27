@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:clean_glass"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:clean_glass"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:clean_glass"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:clean_glass"
+    },
+    "6": {
+      "item": "minecraft:gold_ingot"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:clean_glass"
+    },
+    "8": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:golden_edged_glass",
+    "count": 5
+  }
+}

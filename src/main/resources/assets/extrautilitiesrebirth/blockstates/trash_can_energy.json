@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/trash_can_energy"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/trash_can_energy",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/trash_can_energy",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/trash_can_energy",
+      "y": 270
+    }
+  }
+}

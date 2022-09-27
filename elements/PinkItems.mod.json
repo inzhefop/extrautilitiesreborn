@@ -1,0 +1,68 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.PINK_BED"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#7"
+      },
+      {
+        "value": "Blocks.CANDLE#7"
+      },
+      {
+        "value": "Blocks.POTTED_PINK_TULIP"
+      },
+      {
+        "value": "Blocks.WOOL#6"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#6"
+      },
+      {
+        "value": "Blocks.PINK_GLAZED_TERRACOTTA"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#6"
+      },
+      {
+        "value": "Blocks.CONCRETE#6"
+      },
+      {
+        "value": "Blocks.CARPET#6"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#6"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#6"
+      },
+      {
+        "value": "Blocks.PINK_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.PINK_BANNER"
+      },
+      {
+        "value": "Blocks.PINK_WALL_BANNER"
+      },
+      {
+        "value": "Items.DYE#9"
+      },
+      {
+        "value": "Items.BANNER#9"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#7"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "pink_items",
+    "namespace": "forge"
+  }
+}

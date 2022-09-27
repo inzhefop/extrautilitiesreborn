@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/mechanical_miner"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/mechanical_miner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/mechanical_miner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/mechanical_miner",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "extrautilitiesrebirth:block/mechanical_miner",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "extrautilitiesrebirth:block/mechanical_miner",
+      "x": 90
+    }
+  }
+}

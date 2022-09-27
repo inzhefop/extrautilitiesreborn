@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EnderInfusedObsidian"
+      },
+      {
+        "value": "Blocks.SAPLING"
+      },
+      {
+        "value": "CUSTOM:EnderInfusedObsidian"
+      },
+      {
+        "value": "CUSTOM:EnderCore"
+      },
+      {
+        "value": "CUSTOM:DiamondEdgedComputationalMatrix"
+      },
+      {
+        "value": "CUSTOM:EnderCore"
+      },
+      {
+        "value": "CUSTOM:EnderThermicPump"
+      },
+      {
+        "value": "Items.DIAMOND_PICKAXE"
+      },
+      {
+        "value": "CUSTOM:EnderThermicPump"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnderQuarry"
+    },
+    "name": "ender_quarry_rcp",
+    "namespace": "mod"
+  }
+}

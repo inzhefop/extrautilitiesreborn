@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "1": {
+      "item": "minecraft:light_weighted_pressure_plate"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "4": {
+      "item": "minecraft:cauldron"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "7": {
+      "item": "minecraft:light_weighted_pressure_plate"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:bedrock_drum",
+    "count": 1
+  }
+}

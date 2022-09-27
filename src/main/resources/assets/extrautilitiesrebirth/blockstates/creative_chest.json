@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/creative_chest"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/creative_chest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/creative_chest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/creative_chest",
+      "y": 270
+    }
+  }
+}

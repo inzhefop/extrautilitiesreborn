@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:block_of_demon_metal"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:demon_ingot",
+    "count": 9
+  }
+}

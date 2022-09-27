@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/trashcan-energy",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/trash-can_energy",
+    "particle": "extrautilitiesrebirth:blocks/trash-can_energy",
+    "texture": "extrautilitiesrebirth:blocks/trash-can_energy"
+  }
+}

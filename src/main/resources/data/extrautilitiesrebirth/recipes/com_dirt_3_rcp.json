@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:double_compressed_dirt"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:double_compressed_dirt"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:double_compressed_dirt"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:double_compressed_dirt"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:double_compressed_dirt"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:double_compressed_dirt"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:double_compressed_dirt"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:double_compressed_dirt"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:double_compressed_dirt"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:triple_compressed_dirt",
+    "count": 1
+  }
+}

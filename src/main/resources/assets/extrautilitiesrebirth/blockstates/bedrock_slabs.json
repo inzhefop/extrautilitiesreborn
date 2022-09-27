@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/bedrock_slabs"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/bedrock_slabs",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/bedrock_slabs",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/bedrock_slabs",
+      "y": 270
+    }
+  }
+}

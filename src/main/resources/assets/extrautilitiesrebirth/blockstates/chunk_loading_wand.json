@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/chunk_loading_wand"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/chunk_loading_wand",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/chunk_loading_wand",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/chunk_loading_wand",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:quadruple_compressed_dirt"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:triple_compressed_dirt",
+    "count": 9
+  }
+}

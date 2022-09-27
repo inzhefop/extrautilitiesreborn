@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/spike-1.1-diamond",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/diamond_block",
+    "particle": "extrautilitiesrebirth:blocks/diamond_block",
+    "texture": "extrautilitiesrebirth:blocks/diamond_block"
+  }
+}

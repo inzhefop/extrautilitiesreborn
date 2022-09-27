@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/ender_generator_top",
+    "up": "extrautilitiesrebirth:blocks/ender_generator_top",
+    "north": "extrautilitiesrebirth:blocks/ender_generator_front",
+    "east": "extrautilitiesrebirth:blocks/ender_generator_side",
+    "south": "extrautilitiesrebirth:blocks/ender_generator_side",
+    "west": "extrautilitiesrebirth:blocks/ender_generator_side",
+    "particle": "extrautilitiesrebirth:blocks/ender_generator_top"
+  }
+}

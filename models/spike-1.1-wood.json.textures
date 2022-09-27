@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "oak_planks"
+      },
+      "name": "default"
+    }
+  }
+}

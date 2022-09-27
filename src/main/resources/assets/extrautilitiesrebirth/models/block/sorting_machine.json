@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/sorter_top",
+    "up": "extrautilitiesrebirth:blocks/sorter_top",
+    "north": "extrautilitiesrebirth:blocks/sorter_front",
+    "east": "extrautilitiesrebirth:blocks/machine_side_chest",
+    "south": "extrautilitiesrebirth:blocks/sorter_top",
+    "west": "extrautilitiesrebirth:blocks/machine_side_chest",
+    "particle": "extrautilitiesrebirth:blocks/sorter_top"
+  }
+}

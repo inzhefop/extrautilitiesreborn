@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:quintuple_compressed_cobblestone"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:quintuple_compressed_cobblestone"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:quintuple_compressed_cobblestone"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:quintuple_compressed_cobblestone"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:quintuple_compressed_cobblestone"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:quintuple_compressed_cobblestone"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:quintuple_compressed_cobblestone"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:quintuple_compressed_cobblestone"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:quintuple_compressed_cobblestone"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:sextuple_compressed_cobblestone",
+    "count": 1
+  }
+}

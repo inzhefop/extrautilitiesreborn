@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "extrautilitiesrebirth:ender_generator",
+    "extrautilitiesrebirth:furnace_generator",
+    "extrautilitiesrebirth:magma_generator",
+    "extrautilitiesrebirth:disenchantment_generator",
+    "extrautilitiesrebirth:culinary_generator",
+    "extrautilitiesrebirth:halitosis_generator",
+    "extrautilitiesrebirth:potion_generator_1",
+    "extrautilitiesrebirth:survival_generator",
+    "extrautilitiesrebirth:overclocked_generator",
+    "extrautilitiesrebirth:netherstar_generator",
+    "extrautilitiesrebirth:resonator",
+    "extrautilitiesrebirth:redstone_generator",
+    "extrautilitiesrebirth:tnt_generator",
+    "extrautilitiesrebirth:death_generator",
+    "extrautilitiesrebirth:frosty_generator_1",
+    "extrautilitiesrebirth:pink_generator",
+    "extrautilitiesrebirth:slimey_generator"
+  ]
+}

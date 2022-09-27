@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/drum-v1_bedrock",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/drum_bedrock",
+    "particle": "extrautilitiesrebirth:blocks/drum_bedrock",
+    "texture": "extrautilitiesrebirth:blocks/drum_bedrock"
+  }
+}

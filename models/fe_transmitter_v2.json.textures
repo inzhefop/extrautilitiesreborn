@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "fe_transmitter"
+      },
+      "name": "default"
+    }
+  }
+}

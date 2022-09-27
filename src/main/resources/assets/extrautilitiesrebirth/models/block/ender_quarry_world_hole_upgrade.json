@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/hole",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/quarryupgrade1",
+    "particle": "extrautilitiesrebirth:blocks/quarryupgrade1",
+    "texture": "extrautilitiesrebirth:blocks/quarryupgrade1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:magical_wood"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:magical_planks",
+    "count": 4
+  }
+}

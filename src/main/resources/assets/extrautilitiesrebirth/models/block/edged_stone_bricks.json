@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/edged_stone_grass",
+    "up": "extrautilitiesrebirth:blocks/edged_stone_grass",
+    "north": "extrautilitiesrebirth:blocks/edged_stone_grass",
+    "east": "extrautilitiesrebirth:blocks/edged_stone_grass",
+    "south": "extrautilitiesrebirth:blocks/edged_stone_grass",
+    "west": "extrautilitiesrebirth:blocks/edged_stone_grass",
+    "particle": "extrautilitiesrebirth:blocks/edged_stone_grass"
+  }
+}

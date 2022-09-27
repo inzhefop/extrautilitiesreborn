@@ -1,0 +1,7 @@
+{
+  "parent": "extrautilitiesrebirth:custom/globe",
+  "textures": {
+    "texture": "extrautilitiesrebirth:blocks/globe",
+    "particle": "extrautilitiesrebirth:items/globe"
+  }
+}

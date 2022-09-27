@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnderInfusedObsidian"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnderInfusedObsidian"
+      },
+      {
+        "value": "CUSTOM:Quartzburnt"
+      },
+      {
+        "value": "CUSTOM:EnderInfusedObsidian"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnderInfusedObsidian"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnderQuarryUpgradeBase"
+    },
+    "name": "upgrade_base_rcp",
+    "namespace": "mod"
+  }
+}

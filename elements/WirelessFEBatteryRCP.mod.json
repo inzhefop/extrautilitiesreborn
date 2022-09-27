@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Stoneburnt"
+      },
+      {
+        "value": "CUSTOM:Stoneburnt"
+      },
+      {
+        "value": "CUSTOM:Stoneburnt"
+      },
+      {
+        "value": "Blocks.REDSTONE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:RedstoneCrystal"
+      },
+      {
+        "value": "Blocks.REDSTONE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Stoneburnt"
+      },
+      {
+        "value": "CUSTOM:Stoneburnt"
+      },
+      {
+        "value": "CUSTOM:Stoneburnt"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WirelessFEBattery"
+    },
+    "name": "wireless_fe_battery_rcp",
+    "namespace": "mod"
+  }
+}

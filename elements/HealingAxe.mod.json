@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "defoliageaxe",
+    "customModelName": "Normal",
+    "name": "Healing Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 12.0,
+    "attackSpeed": 5.0,
+    "enchantability": 22,
+    "damageVsEntity": 6.0,
+    "usageCount": 1561,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:UnstableIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

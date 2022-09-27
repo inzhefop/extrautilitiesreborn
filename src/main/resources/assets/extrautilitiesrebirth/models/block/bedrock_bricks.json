@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/bedrock_bricks",
+    "up": "extrautilitiesrebirth:blocks/bedrock_bricks",
+    "north": "extrautilitiesrebirth:blocks/bedrock_bricks",
+    "east": "extrautilitiesrebirth:blocks/bedrock_bricks",
+    "south": "extrautilitiesrebirth:blocks/bedrock_bricks",
+    "west": "extrautilitiesrebirth:blocks/bedrock_bricks",
+    "particle": "extrautilitiesrebirth:blocks/bedrock_bricks"
+  }
+}

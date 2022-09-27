@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/quantum_quarry"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/quantum_quarry",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/quantum_quarry",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/quantum_quarry",
+      "y": 270
+    }
+  }
+}

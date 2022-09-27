@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/frosty_generator_top",
+    "up": "extrautilitiesrebirth:blocks/frosty_generator_top",
+    "north": "extrautilitiesrebirth:blocks/frosty_generator_front",
+    "east": "extrautilitiesrebirth:blocks/frosty_side",
+    "south": "extrautilitiesrebirth:blocks/frosty_side",
+    "west": "extrautilitiesrebirth:blocks/frosty_side",
+    "particle": "extrautilitiesrebirth:blocks/frosty_generator_top"
+  }
+}

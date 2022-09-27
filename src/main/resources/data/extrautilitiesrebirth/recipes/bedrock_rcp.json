@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:bedrock_cobblestone",
+    "count": 1
+  }
+}

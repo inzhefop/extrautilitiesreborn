@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "extrautilitiesrebirth:blocks/ender_lilly_stage_0",
+    "particle": "extrautilitiesrebirth:blocks/ender_lilly_stage_0"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:DeathGenerator"
+      },
+      {
+        "value": "CUSTOM:DisenchantmentGenerator"
+      },
+      {
+        "value": "CUSTOM:EnderGenerator"
+      },
+      {
+        "value": "CUSTOM:TNTGenerator"
+      },
+      {
+        "value": "CUSTOM:FrostyGenerator1"
+      },
+      {
+        "value": "CUSTOM:FurnaceGenerator"
+      },
+      {
+        "value": "CUSTOM:HalitosisGenerator"
+      },
+      {
+        "value": "CUSTOM:NetherstarGenerator"
+      },
+      {
+        "value": "CUSTOM:OverclockedGenerator"
+      },
+      {
+        "value": "CUSTOM:PinkGenerator"
+      },
+      {
+        "value": "CUSTOM:PotionGenerator1"
+      },
+      {
+        "value": "CUSTOM:SlimeyGenerator"
+      },
+      {
+        "value": "CUSTOM:SurvivalGenerator"
+      },
+      {
+        "value": "CUSTOM:RedstoneGenerator"
+      },
+      {
+        "value": "CUSTOM:MagmaGenerator"
+      },
+      {
+        "value": "CUSTOM:CulinaryGenerator"
+      },
+      {
+        "value": "CUSTOM:Resonator"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "generator_eur",
+    "namespace": "forge"
+  }
+}

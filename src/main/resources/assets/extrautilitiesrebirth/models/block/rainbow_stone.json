@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/rainbo_stone",
+    "up": "extrautilitiesrebirth:blocks/rainbo_stone",
+    "north": "extrautilitiesrebirth:blocks/rainbo_stone",
+    "east": "extrautilitiesrebirth:blocks/rainbo_stone",
+    "south": "extrautilitiesrebirth:blocks/rainbo_stone",
+    "west": "extrautilitiesrebirth:blocks/rainbo_stone",
+    "particle": "extrautilitiesrebirth:blocks/rainbo_stone"
+  }
+}

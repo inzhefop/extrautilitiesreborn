@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/drum-v1_stone",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/drum_stone",
+    "particle": "extrautilitiesrebirth:blocks/drum_stone",
+    "texture": "extrautilitiesrebirth:blocks/drum_stone"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:unstable_ingot"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:unstable_ingot"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:reversing_hoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:saplings"
+    },
+    "1": {
+      "item": "minecraft:grass_block"
+    },
+    "2": {
+      "tag": "minecraft:saplings"
+    },
+    "3": {
+      "item": "minecraft:grass_block"
+    },
+    "4": {
+      "tag": "minecraft:saplings"
+    },
+    "5": {
+      "item": "minecraft:grass_block"
+    },
+    "6": {
+      "item": "minecraft:water_bucket"
+    },
+    "7": {
+      "item": "minecraft:grass_block"
+    },
+    "8": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:overworld_portal",
+    "count": 1
+  }
+}

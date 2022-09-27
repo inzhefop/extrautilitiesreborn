@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/spike-1.1-iron",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/iron_block",
+    "particle": "extrautilitiesrebirth:blocks/iron_block",
+    "texture": "extrautilitiesrebirth:blocks/iron_block"
+  }
+}

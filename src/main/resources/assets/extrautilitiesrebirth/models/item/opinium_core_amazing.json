@@ -1,0 +1,7 @@
+{
+  "parent": "extrautilitiesrebirth:custom/core_amazing_v2",
+  "textures": {
+    "texture": "extrautilitiesrebirth:blocks/amazing",
+    "particle": "extrautilitiesrebirth:items/amazing"
+  }
+}

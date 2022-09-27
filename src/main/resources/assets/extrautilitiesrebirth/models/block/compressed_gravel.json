@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/compressed_gravel",
+    "up": "extrautilitiesrebirth:blocks/compressed_gravel",
+    "north": "extrautilitiesrebirth:blocks/compressed_gravel",
+    "east": "extrautilitiesrebirth:blocks/compressed_gravel",
+    "south": "extrautilitiesrebirth:blocks/compressed_gravel",
+    "west": "extrautilitiesrebirth:blocks/compressed_gravel",
+    "particle": "extrautilitiesrebirth:blocks/compressed_gravel"
+  }
+}

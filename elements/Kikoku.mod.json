@@ -1,0 +1,37 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "rwtema_blade",
+    "customModelName": "kikoku_v5:default",
+    "name": "Kikoku",
+    "specialInfo": [
+      "§2+4 Armor piercing damage",
+      "§7Thank you RWTema for creating this wonderful mod!"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 9.0,
+    "attackSpeed": 5.0,
+    "enchantability": 1000,
+    "damageVsEntity": 10.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.NETHER_STAR"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "KikokuLivingEntityIsHitWithTool"
+    }
+  }
+}

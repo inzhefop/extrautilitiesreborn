@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:upgrade_base"
+    },
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:speed_upgrade",
+    "count": 1
+  }
+}

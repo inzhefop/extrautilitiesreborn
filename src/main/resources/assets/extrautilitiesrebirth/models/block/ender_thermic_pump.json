@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/enderquarry_bottom",
+    "up": "extrautilitiesrebirth:blocks/enderthermicpump_top",
+    "north": "extrautilitiesrebirth:blocks/enderthermicpump_side",
+    "east": "extrautilitiesrebirth:blocks/enderthermicpump_side",
+    "south": "extrautilitiesrebirth:blocks/enderthermicpump_side",
+    "west": "extrautilitiesrebirth:blocks/enderthermicpump_side",
+    "particle": "extrautilitiesrebirth:blocks/enderquarry_bottom"
+  }
+}

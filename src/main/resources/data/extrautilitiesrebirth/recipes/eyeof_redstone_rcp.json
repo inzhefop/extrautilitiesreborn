@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ender_pearl"
+    },
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:redstone_crystal"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:eye_of_redstone",
+    "count": 1
+  }
+}

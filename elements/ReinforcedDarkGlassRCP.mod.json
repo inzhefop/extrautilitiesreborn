@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 5,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ObsidianGlass"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ObsidianGlass"
+      },
+      {
+        "value": "CUSTOM:DarkGlass"
+      },
+      {
+        "value": "CUSTOM:ObsidianGlass"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ObsidianGlass"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ReinforcedDarkGlass"
+    },
+    "name": "reinforced_dark_glass_rcp",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "solar_panel"
+      },
+      "name": "default"
+    }
+  }
+}

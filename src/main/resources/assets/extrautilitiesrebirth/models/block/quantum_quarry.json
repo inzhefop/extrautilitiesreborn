@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/quantum_quarry",
+    "up": "extrautilitiesrebirth:blocks/quantum_quarry",
+    "north": "extrautilitiesrebirth:blocks/quantum_quarry",
+    "east": "extrautilitiesrebirth:blocks/quantum_quarry",
+    "south": "extrautilitiesrebirth:blocks/quantum_quarry",
+    "west": "extrautilitiesrebirth:blocks/quantum_quarry",
+    "particle": "extrautilitiesrebirth:blocks/quantum_quarry"
+  }
+}

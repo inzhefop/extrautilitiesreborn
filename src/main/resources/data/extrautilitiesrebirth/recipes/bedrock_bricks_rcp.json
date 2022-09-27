@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:bedrock_cobblestone"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:bedrock_cobblestone"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:bedrock_cobblestone"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:bedrock_cobblestone"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:bedrock_bricks",
+    "count": 4
+  }
+}

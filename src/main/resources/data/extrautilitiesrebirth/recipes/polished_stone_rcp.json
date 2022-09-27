@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone_bricks"
+    },
+    "1": {
+      "item": "minecraft:stone_bricks"
+    },
+    "2": {
+      "item": "minecraft:stone_bricks"
+    },
+    "3": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:polished_stone",
+    "count": 4
+  }
+}

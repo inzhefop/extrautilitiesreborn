@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/bedrock_drum"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/bedrock_drum",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/bedrock_drum",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/bedrock_drum",
+      "y": 270
+    }
+  }
+}

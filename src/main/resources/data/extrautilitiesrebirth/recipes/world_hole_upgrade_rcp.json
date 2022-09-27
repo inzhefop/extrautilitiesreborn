@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "extrautilitiesrebirth:trash_can_energy"
+    },
+    "3": {
+      "tag": "forge:ores/quartz"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:ender_quarry_upgrade_base"
+    },
+    "5": {
+      "tag": "forge:ores/quartz"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:ender_quarry_world_hole_upgrade",
+    "count": 1
+  }
+}

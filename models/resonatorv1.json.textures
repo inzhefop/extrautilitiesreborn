@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "resonator_texture_model"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:apple"
+    },
+    "1": {
+      "item": "minecraft:apple"
+    },
+    "2": {
+      "item": "minecraft:apple"
+    },
+    "3": {
+      "item": "minecraft:apple"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:magical_wood"
+    },
+    "5": {
+      "item": "minecraft:apple"
+    },
+    "6": {
+      "item": "minecraft:apple"
+    },
+    "7": {
+      "item": "minecraft:apple"
+    },
+    "8": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:magical_apple",
+    "count": 8
+  }
+}

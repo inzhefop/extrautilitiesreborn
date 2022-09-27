@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "extrautilitiesrebirth:obsidian_glass"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:obsidian_glass"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:dark_glass"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:obsidian_glass"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:obsidian_glass"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:reinforced_dark_glass",
+    "count": 5
+  }
+}

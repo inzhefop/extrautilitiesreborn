@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/netherstar_top",
+    "up": "extrautilitiesrebirth:blocks/netherstar_top",
+    "north": "extrautilitiesrebirth:blocks/netherstar_front",
+    "east": "extrautilitiesrebirth:blocks/netherstar_side",
+    "south": "extrautilitiesrebirth:blocks/netherstar_side",
+    "west": "extrautilitiesrebirth:blocks/netherstar_side",
+    "particle": "extrautilitiesrebirth:blocks/netherstar_top"
+  }
+}

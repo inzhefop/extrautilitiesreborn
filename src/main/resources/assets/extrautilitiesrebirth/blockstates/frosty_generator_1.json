@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/frosty_generator_1"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/frosty_generator_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/frosty_generator_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/frosty_generator_1",
+      "y": 270
+    }
+  }
+}

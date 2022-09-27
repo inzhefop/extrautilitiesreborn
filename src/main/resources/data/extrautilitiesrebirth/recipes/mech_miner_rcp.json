@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dropper"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:redstone_crystal"
+    },
+    "2": {
+      "item": "minecraft:iron_pickaxe"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:mechanical_miner",
+    "count": 1
+  }
+}

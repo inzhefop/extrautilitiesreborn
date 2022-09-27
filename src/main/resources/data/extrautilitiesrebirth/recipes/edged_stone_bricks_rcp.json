@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:border_stone"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:border_stone"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:border_stone"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:border_stone"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:edged_stone_bricks",
+    "count": 4
+  }
+}

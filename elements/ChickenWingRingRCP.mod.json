@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GoldenFeather"
+      },
+      {
+        "value": "CUSTOM:EnchantedIngot"
+      },
+      {
+        "value": "CUSTOM:GoldenFeather"
+      },
+      {
+        "value": "CUSTOM:EnchantedIngot"
+      },
+      {
+        "value": "CUSTOM:GoldenLasso"
+      },
+      {
+        "value": "CUSTOM:EnchantedIngot"
+      },
+      {
+        "value": "CUSTOM:RedstoneCrystal"
+      },
+      {
+        "value": "CUSTOM:EnchantedIngot"
+      },
+      {
+        "value": "CUSTOM:RedstoneCrystal"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChickenWingRing"
+    },
+    "name": "chicken_wing_ring_rcp",
+    "namespace": "mod"
+  }
+}

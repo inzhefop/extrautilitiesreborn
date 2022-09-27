@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:magical_wood"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:magical_wood"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:magical_wood"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:magical_wood"
+    },
+    "4": {
+      "item": "minecraft:enchanting_table"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:magical_wood"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:furnace_generator"
+    },
+    "8": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:disenchantment_generator",
+    "count": 1
+  }
+}

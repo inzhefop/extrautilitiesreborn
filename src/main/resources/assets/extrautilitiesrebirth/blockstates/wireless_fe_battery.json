@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/wireless_fe_battery"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/wireless_fe_battery",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/wireless_fe_battery",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/wireless_fe_battery",
+      "y": 270
+    }
+  }
+}

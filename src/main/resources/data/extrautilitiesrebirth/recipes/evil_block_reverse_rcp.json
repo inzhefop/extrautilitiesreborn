@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:block_of_evil_infused_iron"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:evil_infused_iron_ingot",
+    "count": 9
+  }
+}

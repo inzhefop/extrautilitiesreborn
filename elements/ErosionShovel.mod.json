@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "erosionshovel",
+    "customModelName": "Normal",
+    "name": "Erosion Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 5.0,
+    "enchantability": 22,
+    "damageVsEntity": 4.0,
+    "usageCount": 6244,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:UnstableIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

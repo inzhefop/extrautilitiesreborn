@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EtherealGlass"
+      },
+      {
+        "value": "CUSTOM:EtherealGlass"
+      },
+      {
+        "value": "CUSTOM:EtherealGlass"
+      },
+      {
+        "value": "CUSTOM:EtherealGlass"
+      },
+      {
+        "value": "Items.DYE#16"
+      },
+      {
+        "value": "CUSTOM:EtherealGlass"
+      },
+      {
+        "value": "CUSTOM:EtherealGlass"
+      },
+      {
+        "value": "CUSTOM:EtherealGlass"
+      },
+      {
+        "value": "CUSTOM:EtherealGlass"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkEtherealGlass"
+    },
+    "name": "dark_ethetreal_glass",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "temporalhoe",
+    "customModelName": "Normal",
+    "name": "Reversing Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 4,
+    "efficiency": 12.0,
+    "attackSpeed": 20.0,
+    "enchantability": 22,
+    "damageVsEntity": 9.0,
+    "usageCount": 1561,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:UnstableIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

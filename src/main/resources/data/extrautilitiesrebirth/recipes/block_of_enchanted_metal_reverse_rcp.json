@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:block_of_enchaned_metal"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:enchanted_ingot",
+    "count": 9
+  }
+}

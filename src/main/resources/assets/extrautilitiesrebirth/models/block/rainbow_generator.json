@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/rainbow_generator",
+    "up": "extrautilitiesrebirth:blocks/rainbow_generator",
+    "north": "extrautilitiesrebirth:blocks/rainbow_generator",
+    "east": "extrautilitiesrebirth:blocks/rainbow_generator",
+    "south": "extrautilitiesrebirth:blocks/rainbow_generator",
+    "west": "extrautilitiesrebirth:blocks/rainbow_generator",
+    "particle": "extrautilitiesrebirth:blocks/rainbow_generator"
+  }
+}

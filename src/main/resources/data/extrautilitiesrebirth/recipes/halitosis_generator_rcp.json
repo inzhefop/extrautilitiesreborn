@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:purpur_block"
+    },
+    "1": {
+      "item": "minecraft:purpur_block"
+    },
+    "2": {
+      "item": "minecraft:purpur_block"
+    },
+    "3": {
+      "item": "minecraft:purpur_block"
+    },
+    "4": {
+      "item": "minecraft:end_rod"
+    },
+    "5": {
+      "item": "minecraft:purpur_block"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:furnace_generator"
+    },
+    "8": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:halitosis_generator",
+    "count": 1
+  }
+}

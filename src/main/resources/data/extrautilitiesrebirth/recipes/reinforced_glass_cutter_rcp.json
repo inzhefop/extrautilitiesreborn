@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "extrautilitiesrebirth:unstable_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:unstable_ingot"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:unstable_nugget"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:reinforced_glass_cutter",
+    "count": 1
+  }
+}

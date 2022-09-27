@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:furnace_generator"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:death_generator"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:halitosis_generator"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:disenchantment_generator"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:redstone_crystal"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:ender_generator"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:furnace_generator"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:frosty_generator_1"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:magma_generator"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:rainmbow_generator_top",
+    "count": 1
+  }
+}

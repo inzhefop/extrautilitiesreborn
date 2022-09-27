@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/lunar_panel"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/lunar_panel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/lunar_panel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/lunar_panel",
+      "y": 270
+    }
+  }
+}

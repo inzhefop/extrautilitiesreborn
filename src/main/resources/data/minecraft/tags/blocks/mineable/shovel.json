@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "extrautilitiesrebirth:compressed_dirt",
+    "extrautilitiesrebirth:double_compressed_dirt",
+    "extrautilitiesrebirth:triple_compressed_dirt",
+    "extrautilitiesrebirth:quadruple_compressed_dirt",
+    "extrautilitiesrebirth:compressed_gravel",
+    "extrautilitiesrebirth:double_compressed_gravel",
+    "extrautilitiesrebirth:compressed_sand",
+    "extrautilitiesrebirth:double_compressed_sand",
+    "extrautilitiesrebirth:cursed_earth"
+  ]
+}

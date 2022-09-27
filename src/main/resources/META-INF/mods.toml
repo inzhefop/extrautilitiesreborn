@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT License"
+
+[[mods]]
+modId="extrautilitiesrebirth"
+version="1.6.2"
+displayName="Extra Utilities Rebirth"
+credits="Hi"
+displayURL="https://www.curseforge.com/members/inzhefop/projects"
+authors="inzhefop"
+description='''
+BETA
+'''
+
+[[dependencies.extrautilitiesrebirth]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.extrautilitiesrebirth]]
+    modId="allmods"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

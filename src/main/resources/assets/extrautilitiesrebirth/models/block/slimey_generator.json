@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/slimy_generator_top",
+    "up": "extrautilitiesrebirth:blocks/slimy_generator_top",
+    "north": "extrautilitiesrebirth:blocks/slimy_generator_front",
+    "east": "extrautilitiesrebirth:blocks/slimy_generator_side",
+    "south": "extrautilitiesrebirth:blocks/slimy_generator_side",
+    "west": "extrautilitiesrebirth:blocks/slimy_generator_side",
+    "particle": "extrautilitiesrebirth:blocks/slimy_generator_top"
+  }
+}

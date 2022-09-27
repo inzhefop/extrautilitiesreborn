@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:golden_feather"
+    },
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:golden_feather"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:angel_block",
+    "count": 1
+  }
+}

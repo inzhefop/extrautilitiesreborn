@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/ineffable_glass_inverted",
+    "up": "extrautilitiesrebirth:blocks/ineffable_glass_inverted",
+    "north": "extrautilitiesrebirth:blocks/ineffable_glass_inverted",
+    "east": "extrautilitiesrebirth:blocks/ineffable_glass_inverted",
+    "south": "extrautilitiesrebirth:blocks/ineffable_glass_inverted",
+    "west": "extrautilitiesrebirth:blocks/ineffable_glass_inverted",
+    "particle": "extrautilitiesrebirth:blocks/ineffable_glass_inverted"
+  }
+}

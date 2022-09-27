@@ -1,0 +1,147 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 133,
+          "y": 108
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Resonator",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Resonator",
+          "x": 133,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "energy_bar_holder.png",
+          "use1Xscale": false,
+          "name": "energy_bar_holder.png",
+          "x": 277,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "energybarfill.png",
+          "use1Xscale": false,
+          "name": "energybarfill.png",
+          "x": 278,
+          "y": 45
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 170,
+          "y": 70
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 223,
+          "y": 70
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "use1Xscale": false,
+          "name": "arrow.png",
+          "x": 188,
+          "y": 70
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_arrow_fill.png",
+          "use1Xscale": false,
+          "name": "progress_arrow_fill.png",
+          "x": 194,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_arrow_negative.png",
+          "use1Xscale": false,
+          "name": "progress_arrow_negative.png",
+          "x": 194,
+          "y": 71
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 133,
+          "y": 55
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "upgrade_icon.png",
+          "use1Xscale": false,
+          "name": "upgrade_icon.png",
+          "x": 134,
+          "y": 56
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

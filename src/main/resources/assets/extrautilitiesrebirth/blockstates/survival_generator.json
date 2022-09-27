@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/survival_generator"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/survival_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/survival_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/survival_generator",
+      "y": 270
+    }
+  }
+}

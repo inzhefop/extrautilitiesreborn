@@ -1,0 +1,8 @@
+{
+  "parent": "extrautilitiesrebirth:custom/spike-1.1-creative",
+  "textures": {
+    "all": "extrautilitiesrebirth:blocks/base",
+    "particle": "extrautilitiesrebirth:blocks/base",
+    "texture": "extrautilitiesrebirth:blocks/base"
+  }
+}

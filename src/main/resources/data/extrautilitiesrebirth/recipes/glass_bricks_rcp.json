@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:clean_glass"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:clean_glass"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:clean_glass"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:clean_glass"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:glass_bricks",
+    "count": 4
+  }
+}

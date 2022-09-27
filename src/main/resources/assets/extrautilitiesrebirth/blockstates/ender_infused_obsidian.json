@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/ender_infused_obsidian"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/ender_infused_obsidian",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/ender_infused_obsidian",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/ender_infused_obsidian",
+      "y": 270
+    }
+  }
+}

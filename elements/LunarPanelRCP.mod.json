@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LunarReactiveDust"
+      },
+      {
+        "value": "CUSTOM:LunarReactiveDust"
+      },
+      {
+        "value": "CUSTOM:LunarReactiveDust"
+      },
+      {
+        "value": "CUSTOM:PolishedStone"
+      },
+      {
+        "value": "CUSTOM:RedstoneCrystal"
+      },
+      {
+        "value": "CUSTOM:PolishedStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LunarPanel"
+    },
+    "name": "lunar_panel_rcp",
+    "namespace": "mod"
+  }
+}

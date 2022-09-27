@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_dye"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "2": {
+      "item": "minecraft:red_dye"
+    },
+    "3": {
+      "item": "minecraft:nether_star"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:healing_axe"
+    },
+    "5": {
+      "item": "minecraft:nether_star"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:unstable_ingot"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:bedrockium_ingot"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:unstable_ingot"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:fire_axe",
+    "count": 1
+  }
+}

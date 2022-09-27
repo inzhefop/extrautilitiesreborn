@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/creativeharvest",
+    "up": "extrautilitiesrebirth:blocks/creativeharvest",
+    "north": "extrautilitiesrebirth:blocks/creativeharvest",
+    "east": "extrautilitiesrebirth:blocks/creativeharvest",
+    "south": "extrautilitiesrebirth:blocks/creativeharvest",
+    "west": "extrautilitiesrebirth:blocks/creativeharvest",
+    "particle": "extrautilitiesrebirth:blocks/creativeharvest"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MagicalWood"
+      },
+      {
+        "value": "CUSTOM:EnderInfusedObsidian"
+      },
+      {
+        "value": "CUSTOM:MagicalWood"
+      },
+      {
+        "value": "CUSTOM:EnderInfusedObsidian"
+      },
+      {
+        "value": "Items.ENDER_EYE"
+      },
+      {
+        "value": "CUSTOM:EnderInfusedObsidian"
+      },
+      {
+        "value": "CUSTOM:MagicalWood"
+      },
+      {
+        "value": "CUSTOM:EnderInfusedObsidian"
+      },
+      {
+        "value": "CUSTOM:MagicalWood"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnderCore"
+    },
+    "name": "ender_core_rcp",
+    "namespace": "mod"
+  }
+}

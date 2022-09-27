@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:bedrock_slabs"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:bedrockium_ingot",
+    "count": 9
+  }
+}

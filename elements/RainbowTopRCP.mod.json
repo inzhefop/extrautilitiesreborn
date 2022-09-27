@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FurnaceGenerator"
+      },
+      {
+        "value": "CUSTOM:DeathGenerator"
+      },
+      {
+        "value": "CUSTOM:HalitosisGenerator"
+      },
+      {
+        "value": "CUSTOM:DisenchantmentGenerator"
+      },
+      {
+        "value": "CUSTOM:RedstoneCrystal"
+      },
+      {
+        "value": "CUSTOM:EnderGenerator"
+      },
+      {
+        "value": "CUSTOM:FurnaceGenerator"
+      },
+      {
+        "value": "CUSTOM:FrostyGenerator1"
+      },
+      {
+        "value": "CUSTOM:MagmaGenerator"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RainmbowGeneratorTop"
+    },
+    "name": "rainbow_top_rcp",
+    "namespace": "mod"
+  }
+}

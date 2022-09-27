@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:ender_quarry_upgrade_base"
+    },
+    "2": {
+      "item": "minecraft:diamond_pickaxe"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:ender_quarry_speed_upgrade",
+    "count": 1
+  }
+}

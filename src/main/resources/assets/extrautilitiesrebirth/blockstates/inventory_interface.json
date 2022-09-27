@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/inventory_interface"
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/inventory_interface",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/inventory_interface",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/inventory_interface",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "extrautilitiesrebirth:block/inventory_interface",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "extrautilitiesrebirth:block/inventory_interface",
+      "x": 90
+    }
+  }
+}

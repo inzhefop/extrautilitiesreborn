@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ender_pearl"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:glass_cutter"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:ender_shard",
+    "count": 6
+  }
+}

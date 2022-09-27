@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "gold_block"
+      },
+      "name": "default"
+    }
+  }
+}

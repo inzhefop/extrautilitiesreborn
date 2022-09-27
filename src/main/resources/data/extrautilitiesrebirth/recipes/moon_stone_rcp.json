@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:lunar_reactive_dust"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:moon_stone",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_nugget"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:chicken_wing_ring"
+    },
+    "2": {
+      "item": "minecraft:gold_nugget"
+    },
+    "3": {
+      "item": "extrautilitiesrebirth:chicken_wing_ring"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:evil_infused_iron_ingot"
+    },
+    "5": {
+      "item": "extrautilitiesrebirth:chicken_wing_ring"
+    },
+    "6": {
+      "item": "minecraft:gold_nugget"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:chicken_wing_ring"
+    },
+    "8": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:advanced_chicken_wing_ring",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "extrautilitiesrebirth:stoneburnt"
+    },
+    "1": {
+      "item": "extrautilitiesrebirth:stoneburnt"
+    },
+    "2": {
+      "item": "extrautilitiesrebirth:stoneburnt"
+    },
+    "3": {
+      "item": "minecraft:redstone_block"
+    },
+    "4": {
+      "item": "extrautilitiesrebirth:redstone_crystal"
+    },
+    "5": {
+      "item": "minecraft:redstone_block"
+    },
+    "6": {
+      "item": "extrautilitiesrebirth:stoneburnt"
+    },
+    "7": {
+      "item": "extrautilitiesrebirth:stoneburnt"
+    },
+    "8": {
+      "item": "extrautilitiesrebirth:stoneburnt"
+    }
+  },
+  "result": {
+    "item": "extrautilitiesrebirth:wireless_fe_battery",
+    "count": 1
+  }
+}

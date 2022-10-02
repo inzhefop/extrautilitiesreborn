@@ -1,6 +1,7 @@
 
 package inzhefop.extrautilitiesrebirth.world.inventory;
 
+import net.minecraftforge.items.SlotItemHandler;
 import net.minecraftforge.items.ItemStackHandler;
 import net.minecraftforge.items.IItemHandler;
 import net.minecraftforge.items.CapabilityItemHandler;
@@ -36,7 +37,7 @@ public class SorterGUIMenu extends AbstractContainerMenu implements Supplier<Map
 		super(ExtrautilitiesrebirthModMenus.SORTER_GUI, id);
 		this.entity = inv.player;
 		this.world = inv.player.level;
-		this.internal = new ItemStackHandler(0);
+		this.internal = new ItemStackHandler(17);
 		BlockPos pos = null;
 		if (extraData != null) {
 			pos = extraData.readBlockPos();
@@ -74,6 +75,40 @@ public class SorterGUIMenu extends AbstractContainerMenu implements Supplier<Map
 				}
 			}
 		}
+		this.customSlots.put(0, this.addSlot(new SlotItemHandler(internal, 0, 44, 23) {
+		}));
+		this.customSlots.put(1, this.addSlot(new SlotItemHandler(internal, 1, 62, 23) {
+		}));
+		this.customSlots.put(2, this.addSlot(new SlotItemHandler(internal, 2, 80, 23) {
+		}));
+		this.customSlots.put(3, this.addSlot(new SlotItemHandler(internal, 3, 98, 23) {
+		}));
+		this.customSlots.put(4, this.addSlot(new SlotItemHandler(internal, 4, 116, 23) {
+		}));
+		this.customSlots.put(5, this.addSlot(new SlotItemHandler(internal, 5, 44, 41) {
+		}));
+		this.customSlots.put(6, this.addSlot(new SlotItemHandler(internal, 6, 62, 41) {
+		}));
+		this.customSlots.put(7, this.addSlot(new SlotItemHandler(internal, 7, 80, 41) {
+		}));
+		this.customSlots.put(8, this.addSlot(new SlotItemHandler(internal, 8, 98, 41) {
+		}));
+		this.customSlots.put(9, this.addSlot(new SlotItemHandler(internal, 9, 116, 41) {
+		}));
+		this.customSlots.put(10, this.addSlot(new SlotItemHandler(internal, 10, 44, 59) {
+		}));
+		this.customSlots.put(11, this.addSlot(new SlotItemHandler(internal, 11, 62, 59) {
+		}));
+		this.customSlots.put(12, this.addSlot(new SlotItemHandler(internal, 12, 80, 59) {
+		}));
+		this.customSlots.put(13, this.addSlot(new SlotItemHandler(internal, 13, 98, 59) {
+		}));
+		this.customSlots.put(14, this.addSlot(new SlotItemHandler(internal, 14, 116, 59) {
+		}));
+		this.customSlots.put(15, this.addSlot(new SlotItemHandler(internal, 15, 8, 23) {
+		}));
+		this.customSlots.put(16, this.addSlot(new SlotItemHandler(internal, 16, 8, 42) {
+		}));
 		for (int si = 0; si < 3; ++si)
 			for (int sj = 0; sj < 9; ++sj)
 				this.addSlot(new Slot(inv, sj + (si + 1) * 9, 0 + 8 + sj * 18, 0 + 84 + si * 18));
@@ -93,18 +128,18 @@ public class SorterGUIMenu extends AbstractContainerMenu implements Supplier<Map
 		if (slot != null && slot.hasItem()) {
 			ItemStack itemstack1 = slot.getItem();
 			itemstack = itemstack1.copy();
-			if (index < 0) {
-				if (!this.moveItemStackTo(itemstack1, 0, this.slots.size(), true)) {
+			if (index < 17) {
+				if (!this.moveItemStackTo(itemstack1, 17, this.slots.size(), true)) {
 					return ItemStack.EMPTY;
 				}
 				slot.onQuickCraft(itemstack1, itemstack);
-			} else if (!this.moveItemStackTo(itemstack1, 0, 0, false)) {
-				if (index < 0 + 27) {
-					if (!this.moveItemStackTo(itemstack1, 0 + 27, this.slots.size(), true)) {
+			} else if (!this.moveItemStackTo(itemstack1, 0, 17, false)) {
+				if (index < 17 + 27) {
+					if (!this.moveItemStackTo(itemstack1, 17 + 27, this.slots.size(), true)) {
 						return ItemStack.EMPTY;
 					}
 				} else {
-					if (!this.moveItemStackTo(itemstack1, 0, 0 + 27, false)) {
+					if (!this.moveItemStackTo(itemstack1, 17, 17 + 27, false)) {
 						return ItemStack.EMPTY;
 					}
 				}

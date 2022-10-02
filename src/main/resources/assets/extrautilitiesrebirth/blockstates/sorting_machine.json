@@ -14,14 +14,6 @@
     "facing=west": {
       "model": "extrautilitiesrebirth:block/sorting_machine",
       "y": 270
-    },
-    "facing=up": {
-      "model": "extrautilitiesrebirth:block/sorting_machine",
-      "x": 270
-    },
-    "facing=down": {
-      "model": "extrautilitiesrebirth:block/sorting_machine",
-      "x": 90
     }
   }
 }

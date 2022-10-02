@@ -5750,6 +5750,45 @@
         ]
       },
       "path": "~/Machines"
+    },
+    {
+      "name": "TagAttentionSignReturn",
+      "type": "procedure",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tag_attention_sign_return",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Machines"
+    },
+    {
+      "name": "SorterRCP",
+      "type": "recipe",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sorter_rcp",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [

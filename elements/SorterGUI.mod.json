@@ -306,6 +306,19 @@
           "x": 270,
           "y": 79
         }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "attention_sign.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "TagAttentionSignReturn"
+          },
+          "name": "attention_sign.png",
+          "x": 153,
+          "y": 80
+        }
       }
     ],
     "gridSettings": {

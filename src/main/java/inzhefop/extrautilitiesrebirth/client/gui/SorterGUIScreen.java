@@ -14,6 +14,7 @@ import net.minecraft.client.Minecraft;
 import java.util.HashMap;
 
 import inzhefop.extrautilitiesrebirth.world.inventory.SorterGUIMenu;
+import inzhefop.extrautilitiesrebirth.procedures.TagAttentionSignReturnProcedure;
 import inzhefop.extrautilitiesrebirth.procedures.Sorterchest2returnProcedure;
 import inzhefop.extrautilitiesrebirth.procedures.Sorterchest1returnProcedure;
 
@@ -67,6 +68,10 @@ public class SorterGUIScreen extends AbstractContainerScreen<SorterGUIMenu> {
 		if (Sorterchest2returnProcedure.execute(world, x, y, z)) {
 			RenderSystem.setShaderTexture(0, new ResourceLocation("extrautilitiesrebirth:textures/screens/normal.png"));
 			this.blit(ms, this.leftPos + 144, this.topPos + 42, 0, 0, 18, 14, 18, 14);
+		}
+		if (TagAttentionSignReturnProcedure.execute(world, x, y, z)) {
+			RenderSystem.setShaderTexture(0, new ResourceLocation("extrautilitiesrebirth:textures/screens/attention_sign.png"));
+			this.blit(ms, this.leftPos + 27, this.topPos + 43, 0, 0, 4, 14, 4, 14);
 		}
 		RenderSystem.disableBlend();
 	}

@@ -9,9 +9,7 @@ import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.BlockGetter;
 import net.minecraft.world.item.TooltipFlag;
-import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.player.Player;
 import net.minecraft.network.chat.TextComponent;
 import net.minecraft.network.chat.Component;
 import net.minecraft.core.BlockPos;
@@ -21,7 +19,7 @@ import java.util.Collections;
 
 public class RainbowStoneBlock extends Block {
 	public RainbowStoneBlock() {
-		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(20f, 8000f).requiresCorrectToolForDrops());
+		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(20f, 8000f));
 	}
 
 	@Override
@@ -33,13 +31,6 @@ public class RainbowStoneBlock extends Block {
 	@Override
 	public int getLightBlock(BlockState state, BlockGetter worldIn, BlockPos pos) {
 		return 15;
-	}
-
-	@Override
-	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
-		if (player.getInventory().getSelected().getItem() instanceof TieredItem tieredItem)
-			return tieredItem.getTier().getLevel() >= 3;
-		return false;
 	}
 
 	@Override

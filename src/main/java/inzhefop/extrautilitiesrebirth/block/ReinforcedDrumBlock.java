@@ -18,7 +18,6 @@ import net.minecraft.world.level.block.EntityBlock;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.BlockGetter;
-import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.inventory.AbstractContainerMenu;
 import net.minecraft.world.entity.player.Player;
@@ -43,7 +42,7 @@ public class ReinforcedDrumBlock extends Block
 
 			EntityBlock {
 	public ReinforcedDrumBlock() {
-		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(2f, 350f).requiresCorrectToolForDrops().noOcclusion()
+		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(2f, 350f).noOcclusion()
 				.isRedstoneConductor((bs, br, bp) -> false));
 	}
 
@@ -61,13 +60,6 @@ public class ReinforcedDrumBlock extends Block
 	public VoxelShape getShape(BlockState state, BlockGetter world, BlockPos pos, CollisionContext context) {
 
 		return Shapes.or(box(2, 0, 2, 14, 1, 14), box(4, 1, 4, 10, 15, 10), box(2, 1, 2, 14, 16, 14));
-	}
-
-	@Override
-	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
-		if (player.getInventory().getSelected().getItem() instanceof TieredItem tieredItem)
-			return tieredItem.getTier().getLevel() >= 3;
-		return false;
 	}
 
 	@Override

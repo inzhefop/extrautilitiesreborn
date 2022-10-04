@@ -16,9 +16,7 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.LevelReader;
 import net.minecraft.world.level.LevelAccessor;
 import net.minecraft.world.level.BlockGetter;
-import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.player.Player;
 import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 import net.minecraft.client.renderer.RenderType;
@@ -32,8 +30,8 @@ import inzhefop.extrautilitiesrebirth.init.ExtrautilitiesrebirthModBlocks;
 
 public class ChandelierBlock extends Block {
 	public ChandelierBlock() {
-		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(1f, 15f).lightLevel(s -> 15).requiresCorrectToolForDrops()
-				.noOcclusion().isRedstoneConductor((bs, br, bp) -> false));
+		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(1f, 15f).lightLevel(s -> 15).noOcclusion()
+				.isRedstoneConductor((bs, br, bp) -> false));
 	}
 
 	@Override
@@ -63,13 +61,6 @@ public class ChandelierBlock extends Block {
 		return !state.canSurvive(world, currentPos)
 				? Blocks.AIR.defaultBlockState()
 				: super.updateShape(state, facing, facingState, world, currentPos, facingPos);
-	}
-
-	@Override
-	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
-		if (player.getInventory().getSelected().getItem() instanceof TieredItem tieredItem)
-			return tieredItem.getTier().getLevel() >= 1;
-		return false;
 	}
 
 	@Override

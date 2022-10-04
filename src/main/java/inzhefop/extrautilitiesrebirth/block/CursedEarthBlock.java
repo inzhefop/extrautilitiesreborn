@@ -12,10 +12,8 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.BlockGetter;
 import net.minecraft.world.item.TooltipFlag;
-import net.minecraft.world.item.TieredItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.inventory.AbstractContainerMenu;
-import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.MenuProvider;
 import net.minecraft.world.Containers;
 import net.minecraft.server.level.ServerLevel;
@@ -35,7 +33,7 @@ public class CursedEarthBlock extends Block
 
 			EntityBlock {
 	public CursedEarthBlock() {
-		super(BlockBehaviour.Properties.of(Material.DIRT).sound(SoundType.GRAVEL).strength(3f, 20f).requiresCorrectToolForDrops());
+		super(BlockBehaviour.Properties.of(Material.DIRT).sound(SoundType.GRAVEL).strength(3f, 20f));
 	}
 
 	@Override
@@ -47,13 +45,6 @@ public class CursedEarthBlock extends Block
 	@Override
 	public int getLightBlock(BlockState state, BlockGetter worldIn, BlockPos pos) {
 		return 15;
-	}
-
-	@Override
-	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
-		if (player.getInventory().getSelected().getItem() instanceof TieredItem tieredItem)
-			return tieredItem.getTier().getLevel() >= 1;
-		return false;
 	}
 
 	@Override

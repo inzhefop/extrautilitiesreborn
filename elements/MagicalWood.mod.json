@@ -50,7 +50,7 @@
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,
-    "requiresCorrectTool": true,
+    "requiresCorrectTool": false,
     "enchantPowerBonus": 2.5,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,

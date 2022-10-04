@@ -4,13 +4,13 @@ license="MIT License"
 
 [[mods]]
 modId="extrautilitiesrebirth"
-version="1.6.2"
+version="1.7.0"
 displayName="Extra Utilities Rebirth"
 credits="Hi"
 displayURL="https://www.curseforge.com/members/inzhefop/projects"
 authors="inzhefop"
 description='''
-BETA
+RELEASE
 '''
 
 [[dependencies.extrautilitiesrebirth]]

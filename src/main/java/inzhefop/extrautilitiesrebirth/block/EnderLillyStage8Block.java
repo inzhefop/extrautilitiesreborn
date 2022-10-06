@@ -22,6 +22,7 @@ import net.minecraft.world.level.Explosion;
 import net.minecraft.world.level.BlockGetter;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.entity.Entity;
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.core.Direction;
@@ -32,6 +33,7 @@ import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import java.util.List;
 import java.util.Collections;
 
+import inzhefop.extrautilitiesrebirth.procedures.EnderLillyStage8ColiderProcedure;
 import inzhefop.extrautilitiesrebirth.procedures.EnderLillyStage1BlockValidPlacementConditionProcedure;
 import inzhefop.extrautilitiesrebirth.procedures.EnderLillyRightClickedProcedureProcedure;
 import inzhefop.extrautilitiesrebirth.procedures.EnderLillyDestroyedProcedureProcedure;
@@ -39,7 +41,7 @@ import inzhefop.extrautilitiesrebirth.init.ExtrautilitiesrebirthModBlocks;
 
 public class EnderLillyStage8Block extends Block {
 	public EnderLillyStage8Block() {
-		super(BlockBehaviour.Properties.of(Material.PLANT).sound(SoundType.GRASS).instabreak().noOcclusion()
+		super(BlockBehaviour.Properties.of(Material.PLANT).sound(SoundType.GRASS).instabreak().noCollission().noOcclusion()
 				.isRedstoneConductor((bs, br, bp) -> false));
 	}
 
@@ -97,6 +99,12 @@ public class EnderLillyStage8Block extends Block {
 	public void wasExploded(Level world, BlockPos pos, Explosion e) {
 		super.wasExploded(world, pos, e);
 		EnderLillyDestroyedProcedureProcedure.execute(world, pos.getX(), pos.getY(), pos.getZ());
+	}
+
+	@Override
+	public void entityInside(BlockState blockstate, Level world, BlockPos pos, Entity entity) {
+		super.entityInside(blockstate, world, pos, entity);
+		EnderLillyStage8ColiderProcedure.execute(entity);
 	}
 
 	@Override

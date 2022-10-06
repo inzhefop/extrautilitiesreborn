@@ -34,7 +34,7 @@ import inzhefop.extrautilitiesrebirth.init.ExtrautilitiesrebirthModBlocks;
 
 public class EnderLillyStage3Block extends Block {
 	public EnderLillyStage3Block() {
-		super(BlockBehaviour.Properties.of(Material.PLANT).sound(SoundType.GRASS).instabreak().noOcclusion()
+		super(BlockBehaviour.Properties.of(Material.PLANT).sound(SoundType.GRASS).instabreak().noCollission().noOcclusion()
 				.isRedstoneConductor((bs, br, bp) -> false));
 	}
 

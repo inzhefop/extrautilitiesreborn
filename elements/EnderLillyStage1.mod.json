@@ -76,7 +76,7 @@
     "speedFactor": 1.0,
     "jumpFactor": 1.0,
     "reactionToPushing": "NORMAL",
-    "isNotColidable": false,
+    "isNotColidable": true,
     "isCustomSoundType": false,
     "soundOnStep": {
       "value": "PLANT"
@@ -137,9 +137,12 @@
       }
     ],
     "generationShape": "UNIFORM",
-    "frequencyPerChunks": 10,
-    "frequencyOnChunk": 16,
+    "frequencyPerChunks": 5,
+    "frequencyOnChunk": 2,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 64
+    "maxGenerateHeight": 128,
+    "generateCondition": {
+      "name": "EnderLillyStage1AdditionalGenerationCondition"
+    }
   }
 }

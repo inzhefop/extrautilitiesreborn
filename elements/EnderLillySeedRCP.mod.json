@@ -7,7 +7,7 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": ""
@@ -19,13 +19,13 @@
         "value": ""
       },
       {
-        "value": "Blocks.RED_FLOWER"
+        "value": ""
       },
       {
-        "value": "Items.ENDER_EYE"
+        "value": "CUSTOM:EnderLillyEndstone"
       },
       {
-        "value": "Blocks.RED_FLOWER"
+        "value": ""
       },
       {
         "value": ""

@@ -101,6 +101,7 @@ import inzhefop.extrautilitiesrebirth.block.EnderLillyStage4Block;
 import inzhefop.extrautilitiesrebirth.block.EnderLillyStage3Block;
 import inzhefop.extrautilitiesrebirth.block.EnderLillyStage2Block;
 import inzhefop.extrautilitiesrebirth.block.EnderLillyStage1Block;
+import inzhefop.extrautilitiesrebirth.block.EnderLillyEndstoneBlock;
 import inzhefop.extrautilitiesrebirth.block.EnderInfusedObsidianBlock;
 import inzhefop.extrautilitiesrebirth.block.EnderGeneratorBlock;
 import inzhefop.extrautilitiesrebirth.block.EnderCoreBlock;
@@ -201,6 +202,7 @@ public class ExtrautilitiesrebirthModBlocks {
 			() -> new CreativeEnergyStorageBlock());
 	public static final RegistryObject<Block> CREATIVE_HARVEST = REGISTRY.register("creative_harvest", () -> new CreativeHarvestBlock());
 	public static final RegistryObject<Block> CURSED_EARTH = REGISTRY.register("cursed_earth", () -> new CursedEarthBlock());
+	public static final RegistryObject<Block> ENDER_LILLY_ENDSTONE = REGISTRY.register("ender_lilly_endstone", () -> new EnderLillyEndstoneBlock());
 	public static final RegistryObject<Block> ENDER_INFUSED_OBSIDIAN = REGISTRY.register("ender_infused_obsidian",
 			() -> new EnderInfusedObsidianBlock());
 	public static final RegistryObject<Block> ENDER_CORE = REGISTRY.register("ender_core", () -> new EnderCoreBlock());

@@ -12,7 +12,7 @@
     {
       "name": "AngelBlockprocedure",
       "type": "procedure",
-      "sortid": 152,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "angel_blockprocedure",
@@ -33,7 +33,7 @@
     {
       "name": "Tab",
       "type": "tab",
-      "sortid": 153,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tab"
@@ -320,7 +320,7 @@
     {
       "name": "CreativeChestGUI",
       "type": "gui",
-      "sortid": 154,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "creative_chest_gui",
@@ -329,7 +329,7 @@
     {
       "name": "CreativeChestUpdateTick",
       "type": "procedure",
-      "sortid": 155,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "registry_name": "creative_chest_update_tick",
@@ -358,7 +358,7 @@
     {
       "name": "CreativeEnergyStorageUpdateTick",
       "type": "procedure",
-      "sortid": 156,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "creative_energy_storage_update_tick",
@@ -405,7 +405,7 @@
     {
       "name": "CreativeHarvestDestroyed",
       "type": "procedure",
-      "sortid": 157,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "registry_name": "creative_harvest_destroyed",
@@ -438,7 +438,7 @@
     {
       "name": "CreativeSpikes",
       "type": "block",
-      "sortid": 42,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "creative_spikes",
@@ -447,7 +447,7 @@
     {
       "name": "CreativeSpikeProcedure",
       "type": "procedure",
-      "sortid": 158,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "creative_spike_procedure",
@@ -473,7 +473,7 @@
     {
       "name": "CursedEarthUpdateTick",
       "type": "procedure",
-      "sortid": 159,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cursed_earth_update_tick",
@@ -502,7 +502,7 @@
     {
       "name": "DiamondSpike",
       "type": "block",
-      "sortid": 43,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diamond_spike",
@@ -511,7 +511,7 @@
     {
       "name": "GoldSpike",
       "type": "block",
-      "sortid": 44,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_spike",
@@ -520,7 +520,7 @@
     {
       "name": "IronSpike",
       "type": "block",
-      "sortid": 45,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_spike",
@@ -529,7 +529,7 @@
     {
       "name": "WoodSpike",
       "type": "block",
-      "sortid": 46,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wood_spike",
@@ -538,7 +538,7 @@
     {
       "name": "SpikesProcedure",
       "type": "procedure",
-      "sortid": 160,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spikes_procedure",
@@ -571,7 +571,7 @@
     {
       "name": "EnderLillyStage1",
       "type": "block",
-      "sortid": 48,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_stage_1",
@@ -580,7 +580,7 @@
     {
       "name": "EnderLillyStage2",
       "type": "block",
-      "sortid": 161,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_stage_2",
@@ -589,7 +589,7 @@
     {
       "name": "EnderLillyStage3",
       "type": "block",
-      "sortid": 162,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_stage_3",
@@ -598,7 +598,7 @@
     {
       "name": "EnderLillyStage4",
       "type": "block",
-      "sortid": 163,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_stage_4",
@@ -607,7 +607,7 @@
     {
       "name": "EnderLillyStage5",
       "type": "block",
-      "sortid": 164,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_stage_5",
@@ -616,7 +616,7 @@
     {
       "name": "EnderLillyStage6",
       "type": "block",
-      "sortid": 165,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_stage_6",
@@ -625,7 +625,7 @@
     {
       "name": "EnderLillyStage7",
       "type": "block",
-      "sortid": 166,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_stage_7",
@@ -634,7 +634,7 @@
     {
       "name": "EnderLillyStage8",
       "type": "block",
-      "sortid": 167,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_stage_8",
@@ -643,7 +643,7 @@
     {
       "name": "EnderLillyGrowProcedure",
       "type": "procedure",
-      "sortid": 168,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_grow_procedure",
@@ -672,7 +672,7 @@
     {
       "name": "EnderLillyDestroyedProcedure",
       "type": "procedure",
-      "sortid": 169,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_destroyed_procedure",
@@ -701,7 +701,7 @@
     {
       "name": "EnderLillyRightClickedProcedure",
       "type": "procedure",
-      "sortid": 170,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_right_clicked_procedure",
@@ -730,7 +730,7 @@
     {
       "name": "EnderLillySeedProcedure",
       "type": "procedure",
-      "sortid": 171,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_seed_procedure",
@@ -763,7 +763,7 @@
     {
       "name": "EnderLillyStage1BlockValidPlacementCondition",
       "type": "procedure",
-      "sortid": 172,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_stage_1_block_valid_placement_condition",
@@ -793,7 +793,7 @@
     {
       "name": "EnderLillyStage8AdditionalGenerationCondition",
       "type": "procedure",
-      "sortid": 173,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_stage_8_additional_generation_condition",
@@ -823,7 +823,7 @@
     {
       "name": "CreeperGlass",
       "type": "block",
-      "sortid": 51,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "creeper_glass",
@@ -832,7 +832,7 @@
     {
       "name": "DarkEtherealGlass",
       "type": "block",
-      "sortid": 52,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_ethereal_glass",
@@ -841,7 +841,7 @@
     {
       "name": "DarkGlass",
       "type": "block",
-      "sortid": 53,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_glass",
@@ -850,7 +850,7 @@
     {
       "name": "EdgedGlass",
       "type": "block",
-      "sortid": 54,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "edged_glass",
@@ -859,7 +859,7 @@
     {
       "name": "EtherealGlass",
       "type": "block",
-      "sortid": 55,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ethereal_glass",
@@ -868,7 +868,7 @@
     {
       "name": "CleanGlass",
       "type": "block",
-      "sortid": 56,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clean_glass",
@@ -877,7 +877,7 @@
     {
       "name": "GlassBricks",
       "type": "block",
-      "sortid": 57,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "glass_bricks",
@@ -886,7 +886,7 @@
     {
       "name": "GlowstoneGlass",
       "type": "block",
-      "sortid": 58,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "glowstone_glass",
@@ -895,7 +895,7 @@
     {
       "name": "GoldenEdgedGlass",
       "type": "block",
-      "sortid": 59,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_edged_glass",
@@ -904,7 +904,7 @@
     {
       "name": "HeartGlass",
       "type": "block",
-      "sortid": 60,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heart_glass",
@@ -913,7 +913,7 @@
     {
       "name": "IneffableGlass",
       "type": "block",
-      "sortid": 61,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ineffable_glass",
@@ -922,7 +922,7 @@
     {
       "name": "IneffableInvertedGlass",
       "type": "block",
-      "sortid": 62,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ineffable_inverted_glass",
@@ -931,7 +931,7 @@
     {
       "name": "ObsidianGlass",
       "type": "block",
-      "sortid": 63,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_glass",
@@ -940,7 +940,7 @@
     {
       "name": "ReinforcedDarkGlass",
       "type": "block",
-      "sortid": 64,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "reinforced_dark_glass",
@@ -949,7 +949,7 @@
     {
       "name": "SquareGlass",
       "type": "block",
-      "sortid": 65,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "square_glass",
@@ -958,7 +958,7 @@
     {
       "name": "SwirlingGlass",
       "type": "block",
-      "sortid": 66,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "swirling_glass",
@@ -967,7 +967,7 @@
     {
       "name": "FerrousJuniperLog",
       "type": "block",
-      "sortid": 174,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ferrous_juniper_log",
@@ -976,7 +976,7 @@
     {
       "name": "FerrousJuniperPlanks",
       "type": "block",
-      "sortid": 175,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ferrous_juniper_planks",
@@ -985,7 +985,7 @@
     {
       "name": "CulinaryGenerator",
       "type": "block",
-      "sortid": 67,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "culinary_generator",
@@ -994,7 +994,7 @@
     {
       "name": "NormalGUI",
       "type": "gui",
-      "sortid": 176,
+      "sortid": 177,
       "compiles": true,
       "locked_code": true,
       "registry_name": "normal_gui",
@@ -1003,7 +1003,7 @@
     {
       "name": "CrossReturn",
       "type": "procedure",
-      "sortid": 177,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cross_return",
@@ -1033,7 +1033,7 @@
     {
       "name": "ToggleBtn",
       "type": "procedure",
-      "sortid": 178,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "registry_name": "toggle_btn",
@@ -1063,7 +1063,7 @@
     {
       "name": "GeneratorMK1Placed",
       "type": "procedure",
-      "sortid": 179,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "registry_name": "generator_mk_1_placed",
@@ -1092,7 +1092,7 @@
     {
       "name": "GUITest",
       "type": "procedure",
-      "sortid": 180,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gui_test",
@@ -1121,7 +1121,7 @@
     {
       "name": "CulinaryGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 181,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "registry_name": "culinary_generator_update_tick",
@@ -1150,7 +1150,7 @@
     {
       "name": "SpeedUpgrade",
       "type": "item",
-      "sortid": 115,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "registry_name": "speed_upgrade",
@@ -1159,7 +1159,7 @@
     {
       "name": "EnchantedSpeedUpgrade",
       "type": "item",
-      "sortid": 116,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enchanted_speed_upgrade",
@@ -1168,7 +1168,7 @@
     {
       "name": "SuperSpeedUpgrade",
       "type": "item",
-      "sortid": 117,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "super_speed_upgrade",
@@ -1177,7 +1177,7 @@
     {
       "name": "StoneSpike",
       "type": "block",
-      "sortid": 47,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_spike",
@@ -1186,7 +1186,7 @@
     {
       "name": "DeathGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 182,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "registry_name": "death_generator_update_tick",
@@ -1215,7 +1215,7 @@
     {
       "name": "DeathGenTag",
       "type": "tag",
-      "sortid": 183,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "registry_name": "death_gen_tag",
@@ -1224,7 +1224,7 @@
     {
       "name": "DeathGenerator",
       "type": "block",
-      "sortid": 68,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "death_generator",
@@ -1233,7 +1233,7 @@
     {
       "name": "DisenchantmentGenerator",
       "type": "block",
-      "sortid": 69,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "disenchantment_generator",
@@ -1242,7 +1242,7 @@
     {
       "name": "DisenchantmentGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 184,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "registry_name": "disenchantment_generator_update_tick",
@@ -1271,7 +1271,7 @@
     {
       "name": "EnderGenerator",
       "type": "block",
-      "sortid": 70,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_generator",
@@ -1280,7 +1280,7 @@
     {
       "name": "EnderGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 185,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_generator_update_tick",
@@ -1309,7 +1309,7 @@
     {
       "name": "TNTGenerator",
       "type": "block",
-      "sortid": 71,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tnt_generator",
@@ -1318,7 +1318,7 @@
     {
       "name": "TNTGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 186,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tnt_generator_update_tick",
@@ -1347,7 +1347,7 @@
     {
       "name": "FrostyGenerator",
       "type": "procedure",
-      "sortid": 187,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frosty_generator_update_tick",
@@ -1376,7 +1376,7 @@
     {
       "name": "FrostyGenTag",
       "type": "tag",
-      "sortid": 188,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frosty_gen_tag",
@@ -1385,7 +1385,7 @@
     {
       "name": "FrostyGenerator1",
       "type": "block",
-      "sortid": 72,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frosty_generator_1",
@@ -1403,7 +1403,7 @@
     {
       "name": "ChandelierBlockValidPlacementCondition",
       "type": "procedure",
-      "sortid": 189,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chandelier_block_valid_placement_condition",
@@ -1433,7 +1433,7 @@
     {
       "name": "FurnaceGenerator",
       "type": "block",
-      "sortid": 73,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "furnace_generator",
@@ -1442,7 +1442,7 @@
     {
       "name": "FurnaceGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 190,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "registry_name": "furnace_generator_update_tick",
@@ -1471,7 +1471,7 @@
     {
       "name": "HalitosisGenerator",
       "type": "block",
-      "sortid": 74,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "halitosis_generator",
@@ -1480,7 +1480,7 @@
     {
       "name": "HalitosisGenratorUpdateTick",
       "type": "procedure",
-      "sortid": 191,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "registry_name": "halitosis_genrator_update_tick",
@@ -1509,7 +1509,7 @@
     {
       "name": "NetherstarGenerator",
       "type": "block",
-      "sortid": 75,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherstar_generator",
@@ -1518,7 +1518,7 @@
     {
       "name": "NetherstarGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 192,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherstar_generator_update_tick",
@@ -1547,7 +1547,7 @@
     {
       "name": "OverclockedGenerator",
       "type": "block",
-      "sortid": 76,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "overclocked_generator",
@@ -1556,7 +1556,7 @@
     {
       "name": "OverclockedGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 193,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "registry_name": "overclocked_generator_update_tick",
@@ -1585,7 +1585,7 @@
     {
       "name": "PinkGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 194,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_generator_update_tick",
@@ -1614,7 +1614,7 @@
     {
       "name": "PinkItems",
       "type": "tag",
-      "sortid": 195,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_items",
@@ -1623,7 +1623,7 @@
     {
       "name": "PinkGenerator",
       "type": "block",
-      "sortid": 77,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_generator",
@@ -1632,7 +1632,7 @@
     {
       "name": "PotionGenerator",
       "type": "procedure",
-      "sortid": 196,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "registry_name": "potion_generator",
@@ -1661,7 +1661,7 @@
     {
       "name": "PotionGenerator1",
       "type": "block",
-      "sortid": 78,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "potion_generator_1",
@@ -1670,7 +1670,7 @@
     {
       "name": "PotionGenerator1OnBlockRightClicked",
       "type": "procedure",
-      "sortid": 197,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "registry_name": "potion_generator_1_on_block_right_clicked",
@@ -1703,7 +1703,7 @@
     {
       "name": "SlimeyGenerator",
       "type": "block",
-      "sortid": 79,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "slimey_generator",
@@ -1712,7 +1712,7 @@
     {
       "name": "SlimeyGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 198,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "registry_name": "slimey_generator_update_tick",
@@ -1741,7 +1741,7 @@
     {
       "name": "SurvivalGenerator",
       "type": "block",
-      "sortid": 80,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "survival_generator",
@@ -1750,7 +1750,7 @@
     {
       "name": "RedstoneGenerator",
       "type": "block",
-      "sortid": 81,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_generator",
@@ -1759,7 +1759,7 @@
     {
       "name": "RedstoneGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 199,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_generator_update_tick",
@@ -1788,7 +1788,7 @@
     {
       "name": "MagmaGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 200,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magma_generator_update_tick",
@@ -1817,7 +1817,7 @@
     {
       "name": "MagmaGenerator",
       "type": "block",
-      "sortid": 82,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magma_generator",
@@ -1826,7 +1826,7 @@
     {
       "name": "MagmaGeneratorOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 201,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magma_generator_on_block_right_clicked",
@@ -1859,7 +1859,7 @@
     {
       "name": "MagicalPlanks",
       "type": "block",
-      "sortid": 83,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magical_planks",
@@ -1868,7 +1868,7 @@
     {
       "name": "MagicalWood",
       "type": "block",
-      "sortid": 84,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magical_wood",
@@ -1877,7 +1877,7 @@
     {
       "name": "RainmbowGeneratorTop",
       "type": "block",
-      "sortid": 85,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rainmbow_generator_top",
@@ -1886,7 +1886,7 @@
     {
       "name": "RainbowGeneratorBottom",
       "type": "block",
-      "sortid": 86,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rainbow_generator_bottom",
@@ -1895,7 +1895,7 @@
     {
       "name": "RainbowGenerator",
       "type": "block",
-      "sortid": 87,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rainbow_generator",
@@ -1904,7 +1904,7 @@
     {
       "name": "RedstoneClockUpdateTick",
       "type": "procedure",
-      "sortid": 202,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_clock_update_tick",
@@ -1933,7 +1933,7 @@
     {
       "name": "RedstoneClock",
       "type": "block",
-      "sortid": 90,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_clock",
@@ -1942,7 +1942,7 @@
     {
       "name": "RedstoneClockReturnRedstonePower",
       "type": "procedure",
-      "sortid": 203,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_clock_return_redstone_power",
@@ -1972,7 +1972,7 @@
     {
       "name": "RedstoneClockOff",
       "type": "block",
-      "sortid": 204,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_clock_off",
@@ -1981,7 +1981,7 @@
     {
       "name": "CreativeInvSample",
       "type": "block",
-      "sortid": 205,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "registry_name": "creative_inv_sample",
@@ -1990,7 +1990,7 @@
     {
       "name": "Wrench",
       "type": "item",
-      "sortid": 120,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wrench",
@@ -1999,7 +1999,7 @@
     {
       "name": "RainbowGeneratorOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 206,
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rainbow_generator_on_block_right_clicked",
@@ -2032,7 +2032,7 @@
     {
       "name": "WrenchClickedOnBlockProcedure",
       "type": "procedure",
-      "sortid": 207,
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wrench_clicked_on_block_procedure",
@@ -2069,7 +2069,7 @@
     {
       "name": "GeneratorTag",
       "type": "tag",
-      "sortid": 208,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "registry_name": "generator_tag",
@@ -2078,7 +2078,7 @@
     {
       "name": "UpdateRGB",
       "type": "procedure",
-      "sortid": 209,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "registry_name": "update_rgb",
@@ -2107,7 +2107,7 @@
     {
       "name": "RainbowGeneratorUpdateTick",
       "type": "procedure",
-      "sortid": 210,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rainbow_generator_update_tick",
@@ -2136,7 +2136,7 @@
     {
       "name": "RainbowParticle",
       "type": "particle",
-      "sortid": 211,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rainbow_particle",
@@ -2145,7 +2145,7 @@
     {
       "name": "MechanicalMinerGUI",
       "type": "gui",
-      "sortid": 212,
+      "sortid": 213,
       "compiles": true,
       "locked_code": true,
       "registry_name": "mechanical_miner_gui",
@@ -2154,7 +2154,7 @@
     {
       "name": "MechanicalMiner",
       "type": "block",
-      "sortid": 96,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mechanical_miner",
@@ -2163,7 +2163,7 @@
     {
       "name": "MechanicalMinerUpdateTick",
       "type": "procedure",
-      "sortid": 213,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mechanical_miner_update_tick",
@@ -2192,7 +2192,7 @@
     {
       "name": "MechanicalUser",
       "type": "block",
-      "sortid": 97,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mechanical_user",
@@ -2201,7 +2201,7 @@
     {
       "name": "MechanicalUserGUI",
       "type": "gui",
-      "sortid": 214,
+      "sortid": 215,
       "compiles": true,
       "locked_code": true,
       "registry_name": "mechanical_user_gui",
@@ -2210,7 +2210,7 @@
     {
       "name": "ToggleButtonProcedure",
       "type": "procedure",
-      "sortid": 215,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "registry_name": "toggle_button_procedure",
@@ -2239,7 +2239,7 @@
     {
       "name": "MechanicalUserBlockAdded",
       "type": "procedure",
-      "sortid": 216,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mechanical_user_block_added",
@@ -2268,7 +2268,7 @@
     {
       "name": "MechanicalUserUpdateTick",
       "type": "procedure",
-      "sortid": 217,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mechanical_user_update_tick",
@@ -2297,7 +2297,7 @@
     {
       "name": "OverworldPortalOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 218,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "registry_name": "overworld_portal_on_block_right_clicked",
@@ -2330,7 +2330,7 @@
     {
       "name": "OverworldPortal",
       "type": "block",
-      "sortid": 113,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "overworld_portal",
@@ -2339,7 +2339,7 @@
     {
       "name": "OverworldPortalEntityWalksOnTheBlock",
       "type": "procedure",
-      "sortid": 219,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "registry_name": "overworld_portal_entity_walks_on_the_block",
@@ -2368,7 +2368,7 @@
     {
       "name": "InventoryInterface",
       "type": "block",
-      "sortid": 220,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "registry_name": "inventory_interface",
@@ -2377,7 +2377,7 @@
     {
       "name": "ChunkWandOnRightClick",
       "type": "procedure",
-      "sortid": 221,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chunk_wand_on_right_click",
@@ -2410,7 +2410,7 @@
     {
       "name": "ChunkwandUpdateTick",
       "type": "procedure",
-      "sortid": 222,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chunkwand_update_tick",
@@ -2422,7 +2422,7 @@
     {
       "name": "Resonator",
       "type": "block",
-      "sortid": 101,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "resonator",
@@ -2431,7 +2431,7 @@
     {
       "name": "ResonantorGUI",
       "type": "gui",
-      "sortid": 223,
+      "sortid": 224,
       "compiles": true,
       "locked_code": true,
       "registry_name": "resonantor_gui",
@@ -2449,7 +2449,7 @@
     {
       "name": "WirelessRFHeatingCoil",
       "type": "item",
-      "sortid": 224,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wireless_rf_heating_coil",
@@ -2458,7 +2458,7 @@
     {
       "name": "UpgradeBase",
       "type": "item",
-      "sortid": 132,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "upgrade_base",
@@ -2467,7 +2467,7 @@
     {
       "name": "LunarReactiveDust",
       "type": "item",
-      "sortid": 133,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lunar_reactive_dust",
@@ -2476,7 +2476,7 @@
     {
       "name": "RedCoal",
       "type": "item",
-      "sortid": 134,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_coal",
@@ -2485,7 +2485,7 @@
     {
       "name": "ResonatorUpdateTick",
       "type": "procedure",
-      "sortid": 225,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "registry_name": "resonator_update_tick",
@@ -2514,7 +2514,7 @@
     {
       "name": "Test",
       "type": "procedure",
-      "sortid": 226,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "registry_name": "test",
@@ -2543,7 +2543,7 @@
     {
       "name": "Furnace",
       "type": "block",
-      "sortid": 98,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "furnace",
@@ -2552,7 +2552,7 @@
     {
       "name": "FurnaceGUI",
       "type": "gui",
-      "sortid": 227,
+      "sortid": 228,
       "compiles": true,
       "locked_code": true,
       "registry_name": "furnace_gui",
@@ -2561,7 +2561,7 @@
     {
       "name": "FurnaceUpdateTick",
       "type": "procedure",
-      "sortid": 228,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "registry_name": "furnace_update_tick",
@@ -2590,7 +2590,7 @@
     {
       "name": "Enchanter",
       "type": "block",
-      "sortid": 100,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enchanter",
@@ -2599,7 +2599,7 @@
     {
       "name": "EnchanterGUI",
       "type": "gui",
-      "sortid": 229,
+      "sortid": 230,
       "compiles": true,
       "locked_code": true,
       "registry_name": "enchanter_gui",
@@ -2608,7 +2608,7 @@
     {
       "name": "EnchantedIngot",
       "type": "item",
-      "sortid": 135,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enchanted_ingot",
@@ -2617,7 +2617,7 @@
     {
       "name": "MagicalApple",
       "type": "item",
-      "sortid": 141,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magical_apple",
@@ -2626,7 +2626,7 @@
     {
       "name": "EvilInfusedIronIngot",
       "type": "item",
-      "sortid": 139,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "evil_infused_iron_ingot",
@@ -2635,7 +2635,7 @@
     {
       "name": "EnchanterUpdateTick",
       "type": "procedure",
-      "sortid": 230,
+      "sortid": 231,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enchanter_update_tick",
@@ -2664,7 +2664,7 @@
     {
       "name": "DrumRightClick",
       "type": "procedure",
-      "sortid": 231,
+      "sortid": 232,
       "compiles": true,
       "locked_code": false,
       "registry_name": "drum_right_click",
@@ -2697,7 +2697,7 @@
     {
       "name": "CreativeDrum",
       "type": "block",
-      "sortid": 91,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "creative_drum",
@@ -2706,7 +2706,7 @@
     {
       "name": "IronDrum",
       "type": "block",
-      "sortid": 94,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_drum",
@@ -2715,7 +2715,7 @@
     {
       "name": "StoneDrum",
       "type": "block",
-      "sortid": 95,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_drum",
@@ -2724,7 +2724,7 @@
     {
       "name": "ReinforcedDrum",
       "type": "block",
-      "sortid": 93,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "reinforced_drum",
@@ -2733,7 +2733,7 @@
     {
       "name": "TrashCanUpdateTick",
       "type": "procedure",
-      "sortid": 232,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trash_can_update_tick",
@@ -2762,7 +2762,7 @@
     {
       "name": "TrashCan",
       "type": "block",
-      "sortid": 109,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trash_can",
@@ -2771,7 +2771,7 @@
     {
       "name": "TrashCanEnergy",
       "type": "block",
-      "sortid": 110,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trash_can_energy",
@@ -2780,7 +2780,7 @@
     {
       "name": "TrashCanEnergyUpdateTick",
       "type": "procedure",
-      "sortid": 233,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trash_can_energy_update_tick",
@@ -2809,7 +2809,7 @@
     {
       "name": "TrashCanFluid",
       "type": "block",
-      "sortid": 111,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trash_can_fluid",
@@ -2818,7 +2818,7 @@
     {
       "name": "TrashCanFluidUpdateTick",
       "type": "procedure",
-      "sortid": 234,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trash_can_fluid_update_tick",
@@ -2847,7 +2847,7 @@
     {
       "name": "AngelBlockRecipe",
       "type": "recipe",
-      "sortid": 235,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "registry_name": "angel_block_recipe",
@@ -2856,7 +2856,7 @@
     {
       "name": "DemonIngot",
       "type": "item",
-      "sortid": 140,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "demon_ingot",
@@ -2865,7 +2865,7 @@
     {
       "name": "ChandilierRCP",
       "type": "recipe",
-      "sortid": 236,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chandilier_rcp",
@@ -2874,7 +2874,7 @@
     {
       "name": "DemonMetalRCP",
       "type": "recipe",
-      "sortid": 237,
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "registry_name": "demon_metal_rcp",
@@ -2883,7 +2883,7 @@
     {
       "name": "DeomBlockReverseRCP",
       "type": "recipe",
-      "sortid": 238,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deom_block_reverse_rcp",
@@ -2892,7 +2892,7 @@
     {
       "name": "BlockOfEnchantedMetalRCP",
       "type": "recipe",
-      "sortid": 239,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_enchanted_metal_rcp",
@@ -2901,7 +2901,7 @@
     {
       "name": "BlockOfEnchantedMetalReverseRCP",
       "type": "recipe",
-      "sortid": 240,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_enchanted_metal_reverse_rcp",
@@ -2910,7 +2910,7 @@
     {
       "name": "EvilIronRCP",
       "type": "recipe",
-      "sortid": 241,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "registry_name": "evil_iron_rcp",
@@ -2919,7 +2919,7 @@
     {
       "name": "EvilBlockReverseRCP",
       "type": "recipe",
-      "sortid": 242,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "registry_name": "evil_block_reverse_rcp",
@@ -2928,7 +2928,7 @@
     {
       "name": "BorderStoneRCP",
       "type": "recipe",
-      "sortid": 243,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "registry_name": "border_stone_rcp",
@@ -2937,7 +2937,7 @@
     {
       "name": "EdgedStoneBricksRCP",
       "type": "recipe",
-      "sortid": 244,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "registry_name": "edged_stone_bricks_rcp",
@@ -2946,7 +2946,7 @@
     {
       "name": "ChisledStoneRCP",
       "type": "recipe",
-      "sortid": 245,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chisled_stone_rcp",
@@ -2955,7 +2955,7 @@
     {
       "name": "PolishedStoneRCP",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_stone_rcp",
@@ -2964,7 +2964,7 @@
     {
       "name": "GoldenLasso",
       "type": "item",
-      "sortid": 143,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_lasso",
@@ -2973,7 +2973,7 @@
     {
       "name": "EyeOfRedstone",
       "type": "item",
-      "sortid": 144,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "eye_of_redstone",
@@ -2982,7 +2982,7 @@
     {
       "name": "ChunkLoadingWandRCP",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chunk_loading_wand_rcp",
@@ -2991,7 +2991,7 @@
     {
       "name": "ComCob1RCP",
       "type": "recipe",
-      "sortid": 248,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_1_rcp",
@@ -3000,7 +3000,7 @@
     {
       "name": "ComCob2RCP",
       "type": "recipe",
-      "sortid": 249,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_2_rcp",
@@ -3009,7 +3009,7 @@
     {
       "name": "ComCob3RCP",
       "type": "recipe",
-      "sortid": 250,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_3_rcp",
@@ -3018,7 +3018,7 @@
     {
       "name": "ComCob4RCP",
       "type": "recipe",
-      "sortid": 251,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_4_rcp",
@@ -3027,7 +3027,7 @@
     {
       "name": "ComCob5RCP",
       "type": "recipe",
-      "sortid": 252,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_5_rcp",
@@ -3036,7 +3036,7 @@
     {
       "name": "ComCob6RCP",
       "type": "recipe",
-      "sortid": 253,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_6_rcp",
@@ -3045,7 +3045,7 @@
     {
       "name": "ComCob7RCP",
       "type": "recipe",
-      "sortid": 254,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_7_rcp",
@@ -3054,7 +3054,7 @@
     {
       "name": "ComCob8RCP",
       "type": "recipe",
-      "sortid": 255,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_8_rcp",
@@ -3063,7 +3063,7 @@
     {
       "name": "ComCob1RevRCP",
       "type": "recipe",
-      "sortid": 256,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_1_rev_rcp",
@@ -3072,7 +3072,7 @@
     {
       "name": "ComCob2RevRCP",
       "type": "recipe",
-      "sortid": 257,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_2_rev_rcp",
@@ -3081,7 +3081,7 @@
     {
       "name": "ComCob3RevRCP",
       "type": "recipe",
-      "sortid": 258,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_3_rev_rcp",
@@ -3090,7 +3090,7 @@
     {
       "name": "ComCob4RevRCP",
       "type": "recipe",
-      "sortid": 259,
+      "sortid": 260,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_4_rev_rcp",
@@ -3099,7 +3099,7 @@
     {
       "name": "ComCob5RevRCP",
       "type": "recipe",
-      "sortid": 260,
+      "sortid": 261,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_5_rev_rcp",
@@ -3108,7 +3108,7 @@
     {
       "name": "ComCob6RevRCP",
       "type": "recipe",
-      "sortid": 261,
+      "sortid": 262,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_6_rev_rcp",
@@ -3117,7 +3117,7 @@
     {
       "name": "ComCob7RevRCP",
       "type": "recipe",
-      "sortid": 262,
+      "sortid": 263,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_7_rev_rcp",
@@ -3126,7 +3126,7 @@
     {
       "name": "ComCob8RevRCP",
       "type": "recipe",
-      "sortid": 263,
+      "sortid": 264,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_cob_8_rev_rcp",
@@ -3135,7 +3135,7 @@
     {
       "name": "ComDirt1RCP",
       "type": "recipe",
-      "sortid": 264,
+      "sortid": 265,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_dirt_1_rcp",
@@ -3144,7 +3144,7 @@
     {
       "name": "ComDirt2RCP",
       "type": "recipe",
-      "sortid": 265,
+      "sortid": 266,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_dirt_2_rcp",
@@ -3153,7 +3153,7 @@
     {
       "name": "ComDirt3RCP",
       "type": "recipe",
-      "sortid": 266,
+      "sortid": 267,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_dirt_3_rcp",
@@ -3162,7 +3162,7 @@
     {
       "name": "ComDirt4RCP",
       "type": "recipe",
-      "sortid": 267,
+      "sortid": 268,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_dirt_4_rcp",
@@ -3171,7 +3171,7 @@
     {
       "name": "ComDirt1revRCP",
       "type": "recipe",
-      "sortid": 268,
+      "sortid": 269,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_dirt_1rev_rcp",
@@ -3180,7 +3180,7 @@
     {
       "name": "ComDirt2revRCP",
       "type": "recipe",
-      "sortid": 269,
+      "sortid": 270,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_dirt_2rev_rcp",
@@ -3189,7 +3189,7 @@
     {
       "name": "ComDirt3revRCP",
       "type": "recipe",
-      "sortid": 270,
+      "sortid": 271,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_dirt_3rev_rcp",
@@ -3198,7 +3198,7 @@
     {
       "name": "ComDirt4revRCP",
       "type": "recipe",
-      "sortid": 271,
+      "sortid": 272,
       "compiles": true,
       "locked_code": false,
       "registry_name": "com_dirt_4rev_rcp",
@@ -3207,7 +3207,7 @@
     {
       "name": "Comgravel1RCP",
       "type": "recipe",
-      "sortid": 272,
+      "sortid": 273,
       "compiles": true,
       "locked_code": false,
       "registry_name": "comgravel_1_rcp",
@@ -3216,7 +3216,7 @@
     {
       "name": "Comgravel2RCP",
       "type": "recipe",
-      "sortid": 273,
+      "sortid": 274,
       "compiles": true,
       "locked_code": false,
       "registry_name": "comgravel_2_rcp",
@@ -3225,7 +3225,7 @@
     {
       "name": "Comgravel1revRCP",
       "type": "recipe",
-      "sortid": 274,
+      "sortid": 275,
       "compiles": true,
       "locked_code": false,
       "registry_name": "comgravel_1rev_rcp",
@@ -3234,7 +3234,7 @@
     {
       "name": "Comgravel2revRCP",
       "type": "recipe",
-      "sortid": 275,
+      "sortid": 276,
       "compiles": true,
       "locked_code": false,
       "registry_name": "comgravel_2rev_rcp",
@@ -3243,7 +3243,7 @@
     {
       "name": "Comsand2RCP",
       "type": "recipe",
-      "sortid": 276,
+      "sortid": 277,
       "compiles": true,
       "locked_code": false,
       "registry_name": "comsand_2_rcp",
@@ -3252,7 +3252,7 @@
     {
       "name": "Comsand1RCP",
       "type": "recipe",
-      "sortid": 277,
+      "sortid": 278,
       "compiles": true,
       "locked_code": false,
       "registry_name": "comsand_1_rcp",
@@ -3261,7 +3261,7 @@
     {
       "name": "Comsand1revRCP",
       "type": "recipe",
-      "sortid": 278,
+      "sortid": 279,
       "compiles": true,
       "locked_code": false,
       "registry_name": "comsand_1rev_rcp",
@@ -3270,7 +3270,7 @@
     {
       "name": "Comsand2revRCP",
       "type": "recipe",
-      "sortid": 279,
+      "sortid": 280,
       "compiles": true,
       "locked_code": false,
       "registry_name": "comsand_2rev_rcp",
@@ -3279,7 +3279,7 @@
     {
       "name": "DropofEvil",
       "type": "item",
-      "sortid": 145,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dropof_evil",
@@ -3288,7 +3288,7 @@
     {
       "name": "DropEvil",
       "type": "procedure",
-      "sortid": 280,
+      "sortid": 281,
       "compiles": true,
       "locked_code": false,
       "registry_name": "drop_evil",
@@ -3321,7 +3321,7 @@
     {
       "name": "DropEvilGrass",
       "type": "procedure",
-      "sortid": 281,
+      "sortid": 282,
       "compiles": true,
       "locked_code": false,
       "registry_name": "drop_evil_grass",
@@ -3354,7 +3354,7 @@
     {
       "name": "WoodSpikeRCP",
       "type": "recipe",
-      "sortid": 282,
+      "sortid": 283,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wood_spike_rcp",
@@ -3363,7 +3363,7 @@
     {
       "name": "StoneSpikeRCP",
       "type": "recipe",
-      "sortid": 283,
+      "sortid": 284,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_spike_rcp",
@@ -3372,7 +3372,7 @@
     {
       "name": "IronSpikeRCP",
       "type": "recipe",
-      "sortid": 284,
+      "sortid": 285,
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_spike_rcp",
@@ -3381,7 +3381,7 @@
     {
       "name": "GoldSpikeRCP",
       "type": "recipe",
-      "sortid": 285,
+      "sortid": 286,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_spike_rcp",
@@ -3390,7 +3390,7 @@
     {
       "name": "DiamondSpikeRCP",
       "type": "recipe",
-      "sortid": 286,
+      "sortid": 287,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diamond_spike_rcp",
@@ -3399,7 +3399,7 @@
     {
       "name": "MoonStone",
       "type": "item",
-      "sortid": 146,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "moon_stone",
@@ -3408,7 +3408,7 @@
     {
       "name": "CreeperGlassRCP",
       "type": "recipe",
-      "sortid": 287,
+      "sortid": 288,
       "compiles": true,
       "locked_code": false,
       "registry_name": "creeper_glass_rcp",
@@ -3417,7 +3417,7 @@
     {
       "name": "EtherealGlassRCP",
       "type": "recipe",
-      "sortid": 288,
+      "sortid": 289,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ethereal_glass_rcp",
@@ -3426,7 +3426,7 @@
     {
       "name": "DarkEthetrealGlass",
       "type": "recipe",
-      "sortid": 289,
+      "sortid": 290,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_ethetreal_glass",
@@ -3435,7 +3435,7 @@
     {
       "name": "DarkGlassRCP",
       "type": "recipe",
-      "sortid": 290,
+      "sortid": 291,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_glass_rcp",
@@ -3444,7 +3444,7 @@
     {
       "name": "EdgedGlassRCP",
       "type": "recipe",
-      "sortid": 291,
+      "sortid": 292,
       "compiles": true,
       "locked_code": false,
       "registry_name": "edged_glass_rcp",
@@ -3453,7 +3453,7 @@
     {
       "name": "ClearGlassRCP",
       "type": "recipe",
-      "sortid": 292,
+      "sortid": 293,
       "compiles": true,
       "locked_code": false,
       "registry_name": "clear_glass_rcp",
@@ -3462,7 +3462,7 @@
     {
       "name": "GlassBricksRCP",
       "type": "recipe",
-      "sortid": 293,
+      "sortid": 294,
       "compiles": true,
       "locked_code": false,
       "registry_name": "glass_bricks_rcp",
@@ -3471,7 +3471,7 @@
     {
       "name": "GlowStoneGlassRCP",
       "type": "recipe",
-      "sortid": 294,
+      "sortid": 295,
       "compiles": true,
       "locked_code": false,
       "registry_name": "glow_stone_glass_rcp",
@@ -3480,7 +3480,7 @@
     {
       "name": "GoldenEdgedGlassRCP",
       "type": "recipe",
-      "sortid": 295,
+      "sortid": 296,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_edged_glass_rcp",
@@ -3489,7 +3489,7 @@
     {
       "name": "HeartGlassRCP",
       "type": "recipe",
-      "sortid": 296,
+      "sortid": 297,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heart_glass_rcp",
@@ -3498,7 +3498,7 @@
     {
       "name": "IneffableGlassRCP",
       "type": "recipe",
-      "sortid": 297,
+      "sortid": 298,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ineffable_glass_rcp",
@@ -3507,7 +3507,7 @@
     {
       "name": "IneffableInvertedGlassRCP",
       "type": "recipe",
-      "sortid": 298,
+      "sortid": 299,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ineffable_inverted_glass_rcp",
@@ -3516,7 +3516,7 @@
     {
       "name": "ObsidianGlassRCP",
       "type": "recipe",
-      "sortid": 299,
+      "sortid": 300,
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidian_glass_rcp",
@@ -3525,7 +3525,7 @@
     {
       "name": "ReinforcedDarkGlassRCP",
       "type": "recipe",
-      "sortid": 300,
+      "sortid": 301,
       "compiles": true,
       "locked_code": false,
       "registry_name": "reinforced_dark_glass_rcp",
@@ -3534,7 +3534,7 @@
     {
       "name": "SquareGlassRCP",
       "type": "recipe",
-      "sortid": 301,
+      "sortid": 302,
       "compiles": true,
       "locked_code": false,
       "registry_name": "square_glass_rcp",
@@ -3543,7 +3543,7 @@
     {
       "name": "SwirlingGlassRCP",
       "type": "recipe",
-      "sortid": 302,
+      "sortid": 303,
       "compiles": true,
       "locked_code": false,
       "registry_name": "swirling_glass_rcp",
@@ -3552,7 +3552,7 @@
     {
       "name": "MachineBlock",
       "type": "block",
-      "sortid": 114,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "machine_block",
@@ -3561,7 +3561,7 @@
     {
       "name": "MachineBlockRCP",
       "type": "recipe",
-      "sortid": 303,
+      "sortid": 304,
       "compiles": true,
       "locked_code": false,
       "registry_name": "machine_block_rcp",
@@ -3570,7 +3570,7 @@
     {
       "name": "FurnaceGeneratorRCP",
       "type": "recipe",
-      "sortid": 304,
+      "sortid": 305,
       "compiles": true,
       "locked_code": false,
       "registry_name": "furnace_generator_rcp",
@@ -3579,7 +3579,7 @@
     {
       "name": "CulinaryGeneratorRCP",
       "type": "recipe",
-      "sortid": 305,
+      "sortid": 306,
       "compiles": true,
       "locked_code": false,
       "registry_name": "culinary_generator_rcp",
@@ -3588,7 +3588,7 @@
     {
       "name": "DeathGeneratorRCP",
       "type": "recipe",
-      "sortid": 306,
+      "sortid": 307,
       "compiles": true,
       "locked_code": false,
       "registry_name": "death_generator_rcp",
@@ -3597,7 +3597,7 @@
     {
       "name": "DisenchantmentGeneratorRCP",
       "type": "recipe",
-      "sortid": 307,
+      "sortid": 308,
       "compiles": true,
       "locked_code": false,
       "registry_name": "disenchantment_generator_rcp",
@@ -3606,7 +3606,7 @@
     {
       "name": "EnchanterRCP",
       "type": "recipe",
-      "sortid": 308,
+      "sortid": 309,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enchanter_rcp",
@@ -3615,7 +3615,7 @@
     {
       "name": "EnderGeneratorRCP",
       "type": "recipe",
-      "sortid": 309,
+      "sortid": 310,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_generator_rcp",
@@ -3624,7 +3624,7 @@
     {
       "name": "ExplosiveGeneratorRCP",
       "type": "recipe",
-      "sortid": 310,
+      "sortid": 311,
       "compiles": true,
       "locked_code": false,
       "registry_name": "explosive_generator_rcp",
@@ -3633,7 +3633,7 @@
     {
       "name": "FrostyGeneratorRCP",
       "type": "recipe",
-      "sortid": 311,
+      "sortid": 312,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frosty_generator_rcp",
@@ -3642,7 +3642,7 @@
     {
       "name": "FurnaceRCP",
       "type": "recipe",
-      "sortid": 312,
+      "sortid": 313,
       "compiles": true,
       "locked_code": false,
       "registry_name": "furnace_rcp",
@@ -3651,7 +3651,7 @@
     {
       "name": "HalitosisGeneratorRCP",
       "type": "recipe",
-      "sortid": 313,
+      "sortid": 314,
       "compiles": true,
       "locked_code": false,
       "registry_name": "halitosis_generator_rcp",
@@ -3660,7 +3660,7 @@
     {
       "name": "MagmaGeneratorRCP",
       "type": "recipe",
-      "sortid": 314,
+      "sortid": 315,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magma_generator_rcp",
@@ -3669,7 +3669,7 @@
     {
       "name": "HeatedRedstoneGeneratorRCP",
       "type": "recipe",
-      "sortid": 315,
+      "sortid": 316,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heated_redstone_generator_rcp",
@@ -3678,7 +3678,7 @@
     {
       "name": "NetherstarGeneratorRCP",
       "type": "recipe",
-      "sortid": 316,
+      "sortid": 317,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netherstar_generator_rcp",
@@ -3687,7 +3687,7 @@
     {
       "name": "OverclockedGeneratorRCP",
       "type": "recipe",
-      "sortid": 317,
+      "sortid": 318,
       "compiles": true,
       "locked_code": false,
       "registry_name": "overclocked_generator_rcp",
@@ -3696,7 +3696,7 @@
     {
       "name": "PinkGeneratorRCP",
       "type": "recipe",
-      "sortid": 318,
+      "sortid": 319,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_generator_rcp",
@@ -3705,7 +3705,7 @@
     {
       "name": "PotionGeneratorRCP",
       "type": "recipe",
-      "sortid": 319,
+      "sortid": 320,
       "compiles": true,
       "locked_code": false,
       "registry_name": "potion_generator_rcp",
@@ -3714,7 +3714,7 @@
     {
       "name": "SlimeyGeneratorRCP",
       "type": "recipe",
-      "sortid": 320,
+      "sortid": 321,
       "compiles": true,
       "locked_code": false,
       "registry_name": "slimey_generator_rcp",
@@ -3723,7 +3723,7 @@
     {
       "name": "SurvivalGeneratorRCP",
       "type": "recipe",
-      "sortid": 321,
+      "sortid": 322,
       "compiles": true,
       "locked_code": false,
       "registry_name": "survival_generator_rcp",
@@ -3732,7 +3732,7 @@
     {
       "name": "MagicalWoodRCP",
       "type": "recipe",
-      "sortid": 322,
+      "sortid": 323,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magical_wood_rcp",
@@ -3741,7 +3741,7 @@
     {
       "name": "MagicalPlanksRCP",
       "type": "recipe",
-      "sortid": 323,
+      "sortid": 324,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magical_planks_rcp",
@@ -3750,7 +3750,7 @@
     {
       "name": "RedstoneCrystal",
       "type": "item",
-      "sortid": 147,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_crystal",
@@ -3759,7 +3759,7 @@
     {
       "name": "RedCrystalGain",
       "type": "procedure",
-      "sortid": 324,
+      "sortid": 325,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_crystal_gain",
@@ -3792,7 +3792,7 @@
     {
       "name": "MechMinerRCP",
       "type": "recipe",
-      "sortid": 325,
+      "sortid": 326,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mech_miner_rcp",
@@ -3801,7 +3801,7 @@
     {
       "name": "MechanicalUserRCP",
       "type": "recipe",
-      "sortid": 326,
+      "sortid": 327,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mechanical_user_rcp",
@@ -3810,7 +3810,7 @@
     {
       "name": "OverworldPortalRCP",
       "type": "recipe",
-      "sortid": 327,
+      "sortid": 328,
       "compiles": true,
       "locked_code": false,
       "registry_name": "overworld_portal_rcp",
@@ -3819,7 +3819,7 @@
     {
       "name": "RainbowBotRCP",
       "type": "recipe",
-      "sortid": 328,
+      "sortid": 329,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rainbow_bot_rcp",
@@ -3828,7 +3828,7 @@
     {
       "name": "RainbowTopRCP",
       "type": "recipe",
-      "sortid": 329,
+      "sortid": 330,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rainbow_top_rcp",
@@ -3837,7 +3837,7 @@
     {
       "name": "RainbowRCP",
       "type": "recipe",
-      "sortid": 330,
+      "sortid": 331,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rainbow_rcp",
@@ -3846,7 +3846,7 @@
     {
       "name": "RedstoneClockRCP",
       "type": "recipe",
-      "sortid": 331,
+      "sortid": 332,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_clock_rcp",
@@ -3855,7 +3855,7 @@
     {
       "name": "ReinforcedDrumRCP",
       "type": "recipe",
-      "sortid": 332,
+      "sortid": 333,
       "compiles": true,
       "locked_code": false,
       "registry_name": "reinforced_drum_rcp",
@@ -3864,7 +3864,7 @@
     {
       "name": "IronDrumRCP",
       "type": "recipe",
-      "sortid": 333,
+      "sortid": 334,
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_drum_rcp",
@@ -3873,7 +3873,7 @@
     {
       "name": "StoneDrumRCP",
       "type": "recipe",
-      "sortid": 334,
+      "sortid": 335,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_drum_rcp",
@@ -3882,7 +3882,7 @@
     {
       "name": "ResonatorRCP",
       "type": "recipe",
-      "sortid": 335,
+      "sortid": 336,
       "compiles": true,
       "locked_code": false,
       "registry_name": "resonator_rcp",
@@ -3891,7 +3891,7 @@
     {
       "name": "TrashCanRCP",
       "type": "recipe",
-      "sortid": 336,
+      "sortid": 337,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trash_can_rcp",
@@ -3900,7 +3900,7 @@
     {
       "name": "TrashcanenergyRCP",
       "type": "recipe",
-      "sortid": 337,
+      "sortid": 338,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trashcanenergy_rcp",
@@ -3909,7 +3909,7 @@
     {
       "name": "FluidTrashRCP",
       "type": "recipe",
-      "sortid": 338,
+      "sortid": 339,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fluid_trash_rcp",
@@ -3918,7 +3918,7 @@
     {
       "name": "EnderLillySeedRCP",
       "type": "recipe",
-      "sortid": 339,
+      "sortid": 340,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_lilly_seed_rcp",
@@ -3927,7 +3927,7 @@
     {
       "name": "WrenchRCP",
       "type": "recipe",
-      "sortid": 340,
+      "sortid": 341,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wrench_rcp",
@@ -3936,7 +3936,7 @@
     {
       "name": "SpeedUpgradeRCP",
       "type": "recipe",
-      "sortid": 341,
+      "sortid": 342,
       "compiles": true,
       "locked_code": false,
       "registry_name": "speed_upgrade_rcp",
@@ -3945,7 +3945,7 @@
     {
       "name": "UpgradeSpeedMagicRCP",
       "type": "recipe",
-      "sortid": 342,
+      "sortid": 343,
       "compiles": true,
       "locked_code": false,
       "registry_name": "upgrade_speed_magic_rcp",
@@ -3954,7 +3954,7 @@
     {
       "name": "SpeedUltimateRCP",
       "type": "recipe",
-      "sortid": 343,
+      "sortid": 344,
       "compiles": true,
       "locked_code": false,
       "registry_name": "speed_ultimate_rcp",
@@ -3963,7 +3963,7 @@
     {
       "name": "MagicalAppleRCP",
       "type": "recipe",
-      "sortid": 344,
+      "sortid": 345,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magical_apple_rcp",
@@ -3972,7 +3972,7 @@
     {
       "name": "GoldenLassoRCP",
       "type": "recipe",
-      "sortid": 345,
+      "sortid": 346,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_lasso_rcp"
@@ -3980,7 +3980,7 @@
     {
       "name": "EyeofRedstoneRCP",
       "type": "recipe",
-      "sortid": 346,
+      "sortid": 347,
       "compiles": true,
       "locked_code": false,
       "registry_name": "eyeof_redstone_rcp",
@@ -3989,7 +3989,7 @@
     {
       "name": "MoonStoneRCP",
       "type": "recipe",
-      "sortid": 347,
+      "sortid": 348,
       "compiles": true,
       "locked_code": false,
       "registry_name": "moon_stone_rcp",
@@ -3998,7 +3998,7 @@
     {
       "name": "SandyGlassRCP",
       "type": "recipe",
-      "sortid": 348,
+      "sortid": 349,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sandy_glass_rcp",
@@ -4007,7 +4007,7 @@
     {
       "name": "TrashCanGUI",
       "type": "gui",
-      "sortid": 349,
+      "sortid": 350,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trash_can_gui",
@@ -4016,7 +4016,7 @@
     {
       "name": "ReturnUpgrades",
       "type": "procedure",
-      "sortid": 350,
+      "sortid": 351,
       "compiles": true,
       "locked_code": false,
       "registry_name": "return_upgrades",
@@ -4046,7 +4046,7 @@
     {
       "name": "ReturnUpgradesSlot3",
       "type": "procedure",
-      "sortid": 351,
+      "sortid": 352,
       "compiles": true,
       "locked_code": false,
       "registry_name": "return_upgrades_slot_3",
@@ -4075,7 +4075,7 @@
     {
       "name": "AngelRing",
       "type": "item",
-      "sortid": 151,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "angel_ring",
@@ -4084,7 +4084,7 @@
     {
       "name": "OpiniumCoreAmazing",
       "type": "item",
-      "sortid": 352,
+      "sortid": 353,
       "compiles": true,
       "locked_code": false,
       "registry_name": "opinium_core_amazing",
@@ -4093,7 +4093,7 @@
     {
       "name": "GlassCutter",
       "type": "item",
-      "sortid": 118,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "registry_name": "glass_cutter",
@@ -4102,7 +4102,7 @@
     {
       "name": "EnderShard",
       "type": "item",
-      "sortid": 148,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_shard",
@@ -4111,7 +4111,7 @@
     {
       "name": "GlassCutterRCP",
       "type": "recipe",
-      "sortid": 353,
+      "sortid": 354,
       "compiles": true,
       "locked_code": false,
       "registry_name": "glass_cutter_rcp",
@@ -4120,7 +4120,7 @@
     {
       "name": "EnderShardRCP",
       "type": "recipe",
-      "sortid": 354,
+      "sortid": 355,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_shard_rcp",
@@ -4129,7 +4129,7 @@
     {
       "name": "ResonatingRedstoneCrystalRCP",
       "type": "recipe",
-      "sortid": 355,
+      "sortid": 356,
       "compiles": true,
       "locked_code": false,
       "registry_name": "resonating_redstone_crystal_rcp",
@@ -4138,7 +4138,7 @@
     {
       "name": "FireAxeProcedure",
       "type": "procedure",
-      "sortid": 356,
+      "sortid": 357,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_axe_procedure",
@@ -4171,7 +4171,7 @@
     {
       "name": "FireAxeBlockDestroyedWithTool",
       "type": "procedure",
-      "sortid": 357,
+      "sortid": 358,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_axe_block_destroyed_with_tool",
@@ -4204,7 +4204,7 @@
     {
       "name": "FireAxe",
       "type": "tool",
-      "sortid": 122,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_axe",
@@ -4213,7 +4213,7 @@
     {
       "name": "BedrockiumIngot",
       "type": "item",
-      "sortid": 136,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedrockium_ingot",
@@ -4222,7 +4222,7 @@
     {
       "name": "BedrockiumIngotRCP",
       "type": "recipe",
-      "sortid": 358,
+      "sortid": 359,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedrockium_ingot_rcp",
@@ -4231,7 +4231,7 @@
     {
       "name": "BedrockRCP",
       "type": "recipe",
-      "sortid": 359,
+      "sortid": 360,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedrock_rcp",
@@ -4240,7 +4240,7 @@
     {
       "name": "BedrockBricksRCP",
       "type": "recipe",
-      "sortid": 360,
+      "sortid": 361,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedrock_bricks_rcp",
@@ -4249,7 +4249,7 @@
     {
       "name": "BedrockPolishedRCP",
       "type": "recipe",
-      "sortid": 361,
+      "sortid": 362,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedrock_polished_rcp",
@@ -4258,7 +4258,7 @@
     {
       "name": "Bedingot1RCP",
       "type": "recipe",
-      "sortid": 362,
+      "sortid": 363,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedingot_1_rcp",
@@ -4267,7 +4267,7 @@
     {
       "name": "Bedingot2RCP",
       "type": "recipe",
-      "sortid": 363,
+      "sortid": 364,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedingot_2_rcp",
@@ -4276,7 +4276,7 @@
     {
       "name": "Bedingot3RCP",
       "type": "recipe",
-      "sortid": 364,
+      "sortid": 365,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedingot_3_rcp",
@@ -4285,7 +4285,7 @@
     {
       "name": "BedrockDrum",
       "type": "block",
-      "sortid": 92,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedrock_drum",
@@ -4294,7 +4294,7 @@
     {
       "name": "BedrockDrumRCP",
       "type": "recipe",
-      "sortid": 365,
+      "sortid": 366,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bedrock_drum_rcp",
@@ -4303,7 +4303,7 @@
     {
       "name": "GoldenBagGUI",
       "type": "gui",
-      "sortid": 366,
+      "sortid": 367,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_bag_gui",
@@ -4312,7 +4312,7 @@
     {
       "name": "GoldenBagOfHolding",
       "type": "item",
-      "sortid": 121,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_bag_of_holding",
@@ -4321,7 +4321,7 @@
     {
       "name": "GoldenBagRCP",
       "type": "recipe",
-      "sortid": 367,
+      "sortid": 368,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_bag_rcp",
@@ -4330,7 +4330,7 @@
     {
       "name": "DevisionSigil",
       "type": "item",
-      "sortid": 130,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "devision_sigil",
@@ -4339,7 +4339,7 @@
     {
       "name": "DevisionSigilGain",
       "type": "procedure",
-      "sortid": 368,
+      "sortid": 369,
       "compiles": true,
       "locked_code": false,
       "registry_name": "devision_sigil_gain",
@@ -4372,7 +4372,7 @@
     {
       "name": "UnstableIngot",
       "type": "item",
-      "sortid": 137,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "unstable_ingot",
@@ -4381,7 +4381,7 @@
     {
       "name": "UnstableNugget",
       "type": "item",
-      "sortid": 138,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "unstable_nugget",
@@ -4390,7 +4390,7 @@
     {
       "name": "UnstableIngotRCP",
       "type": "recipe",
-      "sortid": 369,
+      "sortid": 370,
       "compiles": true,
       "locked_code": false,
       "registry_name": "unstable_ingot_rcp",
@@ -4399,7 +4399,7 @@
     {
       "name": "UnstableNuggetRCP",
       "type": "recipe",
-      "sortid": 370,
+      "sortid": 371,
       "compiles": true,
       "locked_code": false,
       "registry_name": "unstable_nugget_rcp",
@@ -4408,7 +4408,7 @@
     {
       "name": "UnstableIngot2RCP",
       "type": "recipe",
-      "sortid": 371,
+      "sortid": 372,
       "compiles": true,
       "locked_code": false,
       "registry_name": "unstable_ingot_2_rcp",
@@ -4417,7 +4417,7 @@
     {
       "name": "DestructionPickaxe",
       "type": "tool",
-      "sortid": 129,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "destruction_pickaxe",
@@ -4426,7 +4426,7 @@
     {
       "name": "ErosionShovel",
       "type": "tool",
-      "sortid": 125,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "erosion_shovel",
@@ -4435,7 +4435,7 @@
     {
       "name": "PrecisionShears",
       "type": "tool",
-      "sortid": 126,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "precision_shears",
@@ -4444,7 +4444,7 @@
     {
       "name": "EthericSword",
       "type": "tool",
-      "sortid": 128,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "etheric_sword",
@@ -4453,7 +4453,7 @@
     {
       "name": "HealingAxe",
       "type": "tool",
-      "sortid": 124,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "healing_axe",
@@ -4462,7 +4462,7 @@
     {
       "name": "ReversingHoe",
       "type": "tool",
-      "sortid": 127,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "reversing_hoe",
@@ -4471,7 +4471,7 @@
     {
       "name": "DestrunctionPickaxeRCP",
       "type": "recipe",
-      "sortid": 372,
+      "sortid": 373,
       "compiles": true,
       "locked_code": false,
       "registry_name": "destrunction_pickaxe_rcp",
@@ -4480,7 +4480,7 @@
     {
       "name": "ErosionShovelRCP",
       "type": "recipe",
-      "sortid": 373,
+      "sortid": 374,
       "compiles": true,
       "locked_code": false,
       "registry_name": "erosion_shovel_rcp",
@@ -4489,7 +4489,7 @@
     {
       "name": "EthericSwordRCP",
       "type": "recipe",
-      "sortid": 374,
+      "sortid": 375,
       "compiles": true,
       "locked_code": false,
       "registry_name": "etheric_sword_rcp",
@@ -4498,7 +4498,7 @@
     {
       "name": "PrecisionShearsRCP",
       "type": "recipe",
-      "sortid": 375,
+      "sortid": 376,
       "compiles": true,
       "locked_code": false,
       "registry_name": "precision_shears_rcp",
@@ -4507,7 +4507,7 @@
     {
       "name": "HealingAxeRCP",
       "type": "recipe",
-      "sortid": 376,
+      "sortid": 377,
       "compiles": true,
       "locked_code": false,
       "registry_name": "healing_axe_rcp",
@@ -4516,7 +4516,7 @@
     {
       "name": "ReversingHoeRCP",
       "type": "recipe",
-      "sortid": 377,
+      "sortid": 378,
       "compiles": true,
       "locked_code": false,
       "registry_name": "reversing_hoe_rcp",
@@ -4525,7 +4525,7 @@
     {
       "name": "FireAxeRCP",
       "type": "recipe",
-      "sortid": 378,
+      "sortid": 379,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_axe_rcp",
@@ -4534,7 +4534,7 @@
     {
       "name": "WirelessFEBattery",
       "type": "block",
-      "sortid": 102,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wireless_fe_battery",
@@ -4543,7 +4543,7 @@
     {
       "name": "FeTransmitter",
       "type": "block",
-      "sortid": 379,
+      "sortid": 380,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fe_transmitter",
@@ -4552,7 +4552,7 @@
     {
       "name": "WirelessFEBatteryUpdateTick",
       "type": "procedure",
-      "sortid": 380,
+      "sortid": 381,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wireless_fe_battery_update_tick",
@@ -4580,7 +4580,7 @@
     {
       "name": "WirelessFEBatteryOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 381,
+      "sortid": 382,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wireless_fe_battery_on_block_right_clicked",
@@ -4612,7 +4612,7 @@
     {
       "name": "WirelessFEBatteryRCP",
       "type": "recipe",
-      "sortid": 382,
+      "sortid": 383,
       "compiles": true,
       "locked_code": false,
       "registry_name": "wireless_fe_battery_rcp",
@@ -4621,7 +4621,7 @@
     {
       "name": "Kikoku",
       "type": "tool",
-      "sortid": 123,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kikoku",
@@ -4630,7 +4630,7 @@
     {
       "name": "KikokuLivingEntityIsHitWithTool",
       "type": "procedure",
-      "sortid": 383,
+      "sortid": 384,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kikoku_living_entity_is_hit_with_tool",
@@ -4647,7 +4647,7 @@
     {
       "name": "KikokuRCP",
       "type": "recipe",
-      "sortid": 384,
+      "sortid": 385,
       "compiles": true,
       "locked_code": false,
       "registry_name": "kikoku_rcp",
@@ -4656,7 +4656,7 @@
     {
       "name": "RedCoalFuel",
       "type": "itemextension",
-      "sortid": 385,
+      "sortid": 386,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_coal_fuel",
@@ -4665,7 +4665,7 @@
     {
       "name": "PlanksFuel",
       "type": "itemextension",
-      "sortid": 386,
+      "sortid": 387,
       "compiles": true,
       "locked_code": false,
       "registry_name": "planks_fuel",
@@ -4674,7 +4674,7 @@
     {
       "name": "EnderQuarry",
       "type": "block",
-      "sortid": 88,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry",
@@ -4683,7 +4683,7 @@
     {
       "name": "EnderThermicPump",
       "type": "block",
-      "sortid": 89,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_thermic_pump",
@@ -4692,7 +4692,7 @@
     {
       "name": "EnderInfusedObsidian",
       "type": "block",
-      "sortid": 39,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_infused_obsidian",
@@ -4701,7 +4701,7 @@
     {
       "name": "EnderCore",
       "type": "block",
-      "sortid": 40,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_core",
@@ -4710,7 +4710,7 @@
     {
       "name": "DiamondEdgedComputationalMatrix",
       "type": "block",
-      "sortid": 41,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diamond_edged_computational_matrix",
@@ -4719,7 +4719,7 @@
     {
       "name": "EnderMarker",
       "type": "block",
-      "sortid": 112,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_marker",
@@ -4728,7 +4728,7 @@
     {
       "name": "EnderQuarryUpgradeBase",
       "type": "block",
-      "sortid": 103,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_upgrade_base",
@@ -4737,7 +4737,7 @@
     {
       "name": "EnderQuarrySilkTouchUpgrade",
       "type": "block",
-      "sortid": 104,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_silk_touch_upgrade",
@@ -4746,7 +4746,7 @@
     {
       "name": "EnderQuarryWorldHoleUpgrade",
       "type": "block",
-      "sortid": 105,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_world_hole_upgrade",
@@ -4755,7 +4755,7 @@
     {
       "name": "EnderQuarrySpeedUpgrade",
       "type": "block",
-      "sortid": 107,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_speed_upgrade",
@@ -4764,7 +4764,7 @@
     {
       "name": "EnderQuarrySilkTouchUpgrade2",
       "type": "block",
-      "sortid": 108,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_silk_touch_upgrade_2",
@@ -4773,7 +4773,7 @@
     {
       "name": "EnderQuarrySilkTouchUpgrade3",
       "type": "block",
-      "sortid": 106,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_silk_touch_upgrade_3",
@@ -4782,7 +4782,7 @@
     {
       "name": "EnderMarkerOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 387,
+      "sortid": 388,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_marker_on_block_right_clicked",
@@ -4815,7 +4815,7 @@
     {
       "name": "EnderQuarryOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 388,
+      "sortid": 389,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_on_block_right_clicked",
@@ -4848,7 +4848,7 @@
     {
       "name": "EnderMarkerUpdateTick",
       "type": "procedure",
-      "sortid": 389,
+      "sortid": 390,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_marker_update_tick",
@@ -4877,7 +4877,7 @@
     {
       "name": "EnderQuarryUpdateTick",
       "type": "procedure",
-      "sortid": 390,
+      "sortid": 391,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_update_tick",
@@ -4906,7 +4906,7 @@
     {
       "name": "EnderQuarryNeighbourBlockChanges",
       "type": "procedure",
-      "sortid": 391,
+      "sortid": 392,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_neighbour_block_changes",
@@ -4935,7 +4935,7 @@
     {
       "name": "FortuneCondition",
       "type": "procedure",
-      "sortid": 392,
+      "sortid": 393,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fortune_condition",
@@ -4965,7 +4965,7 @@
     {
       "name": "DECMRCP",
       "type": "recipe",
-      "sortid": 393,
+      "sortid": 394,
       "compiles": true,
       "locked_code": false,
       "registry_name": "decmrcp",
@@ -4974,7 +4974,7 @@
     {
       "name": "EnderCoreRCP",
       "type": "recipe",
-      "sortid": 394,
+      "sortid": 395,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_core_rcp",
@@ -4983,7 +4983,7 @@
     {
       "name": "EnderInfusedObsidianRCP",
       "type": "recipe",
-      "sortid": 395,
+      "sortid": 396,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_infused_obsidian_rcp",
@@ -4992,7 +4992,7 @@
     {
       "name": "EnderQuarryRCP",
       "type": "recipe",
-      "sortid": 396,
+      "sortid": 397,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_rcp",
@@ -5001,7 +5001,7 @@
     {
       "name": "EnderThermicPumpRCP",
       "type": "recipe",
-      "sortid": 397,
+      "sortid": 398,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_thermic_pump_rcp",
@@ -5010,7 +5010,7 @@
     {
       "name": "UpgradeBaseRCP",
       "type": "recipe",
-      "sortid": 398,
+      "sortid": 399,
       "compiles": true,
       "locked_code": false,
       "registry_name": "upgrade_base_rcp",
@@ -5019,7 +5019,7 @@
     {
       "name": "WorldHoleUpgradeRCP",
       "type": "recipe",
-      "sortid": 399,
+      "sortid": 400,
       "compiles": true,
       "locked_code": false,
       "registry_name": "world_hole_upgrade_rcp",
@@ -5028,7 +5028,7 @@
     {
       "name": "EnderQuarrySpeedOneRCP",
       "type": "recipe",
-      "sortid": 400,
+      "sortid": 401,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_speed_one_rcp",
@@ -5037,7 +5037,7 @@
     {
       "name": "PumpRightClickedProcedure",
       "type": "procedure",
-      "sortid": 401,
+      "sortid": 402,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pump_right_clicked_procedure",
@@ -5070,7 +5070,7 @@
     {
       "name": "PumpUpdateTick",
       "type": "procedure",
-      "sortid": 402,
+      "sortid": 403,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pump_update_tick",
@@ -5099,7 +5099,7 @@
     {
       "name": "EnderThermicPumpBlockAdded",
       "type": "procedure",
-      "sortid": 403,
+      "sortid": 404,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_thermic_pump_block_added",
@@ -5128,7 +5128,7 @@
     {
       "name": "EnderMarkerRCP",
       "type": "recipe",
-      "sortid": 404,
+      "sortid": 405,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_marker_rcp",
@@ -5137,7 +5137,7 @@
     {
       "name": "GoldenChestGUI",
       "type": "gui",
-      "sortid": 405,
+      "sortid": 406,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_chest_gui",
@@ -5155,7 +5155,7 @@
     {
       "name": "LunarPanelUpdateTick",
       "type": "procedure",
-      "sortid": 406,
+      "sortid": 407,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lunar_panel_update_tick",
@@ -5184,7 +5184,7 @@
     {
       "name": "LunarPanelOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 407,
+      "sortid": 408,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lunar_panel_on_block_right_clicked",
@@ -5217,7 +5217,7 @@
     {
       "name": "LunarPanel",
       "type": "block",
-      "sortid": 49,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lunar_panel",
@@ -5226,7 +5226,7 @@
     {
       "name": "SolarPanelUpdateTick",
       "type": "procedure",
-      "sortid": 408,
+      "sortid": 409,
       "compiles": true,
       "locked_code": false,
       "registry_name": "solar_panel_update_tick",
@@ -5255,7 +5255,7 @@
     {
       "name": "SolarPanel",
       "type": "block",
-      "sortid": 50,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "solar_panel",
@@ -5264,7 +5264,7 @@
     {
       "name": "LunarPanelRCP",
       "type": "recipe",
-      "sortid": 409,
+      "sortid": 410,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lunar_panel_rcp",
@@ -5273,7 +5273,7 @@
     {
       "name": "SolarPanelRCP",
       "type": "recipe",
-      "sortid": 410,
+      "sortid": 411,
       "compiles": true,
       "locked_code": false,
       "registry_name": "solar_panel_rcp",
@@ -5282,7 +5282,7 @@
     {
       "name": "GoldChestRCP",
       "type": "recipe",
-      "sortid": 411,
+      "sortid": 412,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_chest_rcp",
@@ -5291,7 +5291,7 @@
     {
       "name": "PortableGlobe",
       "type": "item",
-      "sortid": 131,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "portable_globe"
@@ -5299,7 +5299,7 @@
     {
       "name": "PortableGlobeRCP",
       "type": "recipe",
-      "sortid": 412,
+      "sortid": 413,
       "compiles": true,
       "locked_code": false,
       "registry_name": "portable_globe_rcp",
@@ -5308,7 +5308,7 @@
     {
       "name": "UngrownEnderLillyStates",
       "type": "tag",
-      "sortid": 413,
+      "sortid": 414,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ungrown_ender_lilly_states",
@@ -5317,7 +5317,7 @@
     {
       "name": "GlassCutterRightclickedOnBlock",
       "type": "procedure",
-      "sortid": 414,
+      "sortid": 415,
       "compiles": true,
       "locked_code": false,
       "registry_name": "glass_cutter_rightclicked_on_block",
@@ -5358,7 +5358,7 @@
     {
       "name": "ChickenWingRing",
       "type": "item",
-      "sortid": 149,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chicken_wing_ring",
@@ -5367,7 +5367,7 @@
     {
       "name": "RingOfTheFlyringSquid",
       "type": "item",
-      "sortid": 415,
+      "sortid": 416,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ring_of_the_flying_squid",
@@ -5376,7 +5376,7 @@
     {
       "name": "PlayerJumps",
       "type": "procedure",
-      "sortid": 416,
+      "sortid": 417,
       "compiles": true,
       "locked_code": false,
       "registry_name": "player_jumps",
@@ -5397,7 +5397,7 @@
     {
       "name": "ChickenWingRingRCP",
       "type": "recipe",
-      "sortid": 417,
+      "sortid": 418,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chicken_wing_ring_rcp",
@@ -5406,7 +5406,7 @@
     {
       "name": "AdvancedChickenWingRing",
       "type": "item",
-      "sortid": 150,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "advanced_chicken_wing_ring",
@@ -5415,7 +5415,7 @@
     {
       "name": "AdvancedChickenWingRingRCP",
       "type": "recipe",
-      "sortid": 418,
+      "sortid": 419,
       "compiles": true,
       "locked_code": false,
       "registry_name": "advanced_chicken_wing_ring_rcp",
@@ -5424,7 +5424,7 @@
     {
       "name": "GoldenFeather",
       "type": "item",
-      "sortid": 142,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_feather",
@@ -5433,7 +5433,7 @@
     {
       "name": "GoldenFeatherRCP",
       "type": "recipe",
-      "sortid": 419,
+      "sortid": 420,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_feather_rcp",
@@ -5442,7 +5442,7 @@
     {
       "name": "ReinforcedGlassCutter",
       "type": "item",
-      "sortid": 119,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "reinforced_glass_cutter"
@@ -5450,7 +5450,7 @@
     {
       "name": "EnderShard2RCP",
       "type": "recipe",
-      "sortid": 420,
+      "sortid": 421,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_shard_2_rcp",
@@ -5459,7 +5459,7 @@
     {
       "name": "ReinforcedGlassCutterRCP",
       "type": "recipe",
-      "sortid": 421,
+      "sortid": 422,
       "compiles": true,
       "locked_code": false,
       "registry_name": "reinforced_glass_cutter_rcp",
@@ -5468,7 +5468,7 @@
     {
       "name": "QuantumQuarry",
       "type": "block",
-      "sortid": 422,
+      "sortid": 423,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quantum_quarry",
@@ -5477,7 +5477,7 @@
     {
       "name": "QuantumQuarryActuator",
       "type": "block",
-      "sortid": 423,
+      "sortid": 424,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quantum_quarry_actuator",
@@ -5486,7 +5486,7 @@
     {
       "name": "EnderQuarryGUI",
       "type": "gui",
-      "sortid": 424,
+      "sortid": 425,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ender_quarry_gui",
@@ -5495,7 +5495,7 @@
     {
       "name": "QuantumQuarryActuatorOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 425,
+      "sortid": 426,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quantum_quarry_actuator_on_block_right_clicked",
@@ -5528,7 +5528,7 @@
     {
       "name": "QuantumQuarryOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 426,
+      "sortid": 427,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quantum_quarry_on_block_right_clicked",
@@ -5561,7 +5561,7 @@
     {
       "name": "QuantumQuarryNeighbourBlockChanges",
       "type": "procedure",
-      "sortid": 427,
+      "sortid": 428,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quantum_quarry_neighbour_block_changes",
@@ -5590,7 +5590,7 @@
     {
       "name": "AngelRingMessage",
       "type": "procedure",
-      "sortid": 428,
+      "sortid": 429,
       "compiles": true,
       "locked_code": false,
       "registry_name": "angel_ring_message",
@@ -5607,7 +5607,7 @@
     {
       "name": "OnGameStart",
       "type": "procedure",
-      "sortid": 429,
+      "sortid": 430,
       "compiles": true,
       "locked_code": false,
       "registry_name": "on_game_start",
@@ -5618,7 +5618,7 @@
     {
       "name": "SortingMachine",
       "type": "block",
-      "sortid": 99,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sorting_machine",
@@ -5627,7 +5627,7 @@
     {
       "name": "SorterGUI",
       "type": "gui",
-      "sortid": 430,
+      "sortid": 431,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sorter_gui",
@@ -5636,7 +5636,7 @@
     {
       "name": "Sorterchest1return",
       "type": "procedure",
-      "sortid": 430,
+      "sortid": 432,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sorterchest_1return",
@@ -5666,7 +5666,7 @@
     {
       "name": "Sorterchest2return",
       "type": "procedure",
-      "sortid": 431,
+      "sortid": 433,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sorterchest_2return",
@@ -5696,7 +5696,7 @@
     {
       "name": "SorterTitle",
       "type": "procedure",
-      "sortid": 432,
+      "sortid": 434,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sorter_title",
@@ -5725,7 +5725,7 @@
     {
       "name": "SortingMachineUpdateTick",
       "type": "procedure",
-      "sortid": 433,
+      "sortid": 435,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sorting_machine_update_tick",
@@ -5754,7 +5754,7 @@
     {
       "name": "TagAttentionSignReturn",
       "type": "procedure",
-      "sortid": 434,
+      "sortid": 436,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tag_attention_sign_return",
@@ -5784,11 +5784,67 @@
     {
       "name": "SorterRCP",
       "type": "recipe",
-      "sortid": 435,
+      "sortid": 437,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sorter_rcp",
       "path": "~/Recipes"
+    },
+    {
+      "name": "EnderLillyStage8Colider",
+      "type": "procedure",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ender_lilly_stage_8_colider",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Misc/EnderLillyFolder"
+    },
+    {
+      "name": "EnderLillyStage1AdditionalGenerationCondition",
+      "type": "procedure",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ender_lilly_stage_1_additional_generation_condition",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Misc/EnderLillyFolder"
+    },
+    {
+      "name": "EnderLillyEndstone",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ender_lilly_endstone",
+      "path": "~/Misc"
     }
   ],
   "variable_elements": [
@@ -5857,13 +5913,13 @@
   "language_map": {
     "en_us": {
       "block.extrautilitiesrebirth.polished_stone": "Polished Stone",
-      "block.extrautilitiesrebirth.angel_block": "Angel Block",
       "item.extrautilitiesrebirth.healing_axe": "Healing Axe",
+      "block.extrautilitiesrebirth.angel_block": "Angel Block",
       "block.extrautilitiesrebirth.glass_bricks": "Glass Bricks",
       "block.extrautilitiesrebirth.tnt_generator": "TNT Generator",
       "item.extrautilitiesrebirth.advanced_chicken_wing_ring": "Advanced Chicken Wing Ring",
-      "block.extrautilitiesrebirth.ender_generator": "Ender Generator",
       "block.extrautilitiesrebirth.redstone_generator": "Redstone Generator",
+      "block.extrautilitiesrebirth.ender_generator": "Ender Generator",
       "block.extrautilitiesrebirth.creative_energy_storage": "Creative Energy Storage",
       "block.extrautilitiesrebirth.sandy_glass": "Sandy Glass",
       "item.extrautilitiesrebirth.upgrade_base": "Upgrade Base",
@@ -5892,6 +5948,7 @@
       "item.extrautilitiesrebirth.unstable_ingot": "Unstable Ingot",
       "item.extrautilitiesrebirth.bedrockium_ingot": "Bedrockium Ingot",
       "block.extrautilitiesrebirth.trash_can_fluid": "Trash Can [Fluid]",
+      "block.extrautilitiesrebirth.ender_lilly_endstone": "Ender Lilly Endstone",
       "block.extrautilitiesrebirth.creative_drum": "Creative Drum",
       "item.extrautilitiesrebirth.angel_ring": "Angel Ring",
       "block.extrautilitiesrebirth.creative_harvest": "Creative Harvest",
@@ -6165,7 +6222,7 @@
   "workspaceSettings": {
     "modid": "extrautilitiesrebirth",
     "modName": "Extra Utilities Rebirth",
-    "version": "1.7.0",
+    "version": "1.7.1",
     "description": "RELEASE",
     "author": "inzhefop",
     "websiteURL": "https://www.curseforge.com/members/inzhefop/projects",

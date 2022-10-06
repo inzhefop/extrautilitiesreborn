@@ -2,14 +2,14 @@
   "_fv": 33,
   "_type": "block",
   "definition": {
-    "texture": "ender_lilly_stage_5",
-    "textureTop": "",
-    "textureLeft": "",
-    "textureFront": "",
-    "textureRight": "",
-    "textureBack": "",
-    "renderType": 12,
-    "customModelName": "Cross model",
+    "texture": "end_stone",
+    "textureTop": "lill_ore_top",
+    "textureLeft": "end_stone",
+    "textureFront": "end_stone",
+    "textureRight": "end_stone",
+    "textureBack": "end_stone",
+    "renderType": 10,
+    "customModelName": "Normal",
     "rotationMode": 0,
     "enablePitch": false,
     "emissiveRendering": false,
@@ -18,31 +18,31 @@
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
-    "hasTransparency": true,
+    "hasTransparency": false,
     "connectedSides": false,
     "transparencyType": "SOLID",
     "disableOffset": false,
     "boundingBoxes": [
       {
-        "mx": 4.0,
+        "mx": 0.0,
         "my": 0.0,
-        "mz": 4.0,
-        "Mx": 12.0,
-        "My": 8.0,
-        "Mz": 12.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
         "subtract": false
       }
     ],
-    "name": "Ender Lilly",
+    "name": "Ender Lilly Endstone",
     "specialInfo": [],
-    "hardness": 0.0,
-    "resistance": 0.0,
+    "hardness": 2.0,
+    "resistance": 50.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "No creative tab entry"
+      "value": "CUSTOM:Tab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": "CUSTOM:EnderLillyStage1"
     },
@@ -52,11 +52,11 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
-    "lightOpacity": 0,
+    "lightOpacity": 15,
     "material": {
-      "value": "PLANTS"
+      "value": "ROCK"
     },
-    "tickRate": 3000,
+    "tickRate": 0,
     "tickRandomly": false,
     "isReplaceable": false,
     "canProvidePower": false,
@@ -76,10 +76,10 @@
     "speedFactor": 1.0,
     "jumpFactor": 1.0,
     "reactionToPushing": "NORMAL",
-    "isNotColidable": true,
+    "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "PLANT"
+      "value": "STONE"
     },
     "breakSound": {
       "value": ""
@@ -98,17 +98,14 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
+    "breakHarvestLevel": 3,
     "spawnParticles": false,
     "particleToSpawn": {
-      "value": "EXPLOSION_NORMAL"
+      "value": "CUSTOM:RainbowParticle"
     },
     "particleSpawningShape": "Spread",
     "particleSpawningRadious": 0.5,
     "particleAmount": 4,
-    "placingCondition": {
-      "name": "EnderLillyStage1BlockValidPlacementCondition"
-    },
     "hasInventory": false,
     "guiBoundTo": "<NONE>",
     "openGUIOnRightClick": false,
@@ -126,20 +123,22 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "onTickUpdate": {
-      "name": "EnderLillyGrowProcedure"
-    },
-    "spawnWorldTypes": [],
+    "spawnWorldTypes": [
+      "End"
+    ],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.STONE"
+        "value": "Blocks.END_STONE"
       }
     ],
     "generationShape": "UNIFORM",
-    "frequencyPerChunks": 10,
-    "frequencyOnChunk": 16,
+    "frequencyPerChunks": 32,
+    "frequencyOnChunk": 4,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 64
+    "maxGenerateHeight": 64,
+    "generateCondition": {
+      "name": "EnderLillyStage1AdditionalGenerationCondition"
+    }
   }
 }

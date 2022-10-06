@@ -33,6 +33,7 @@ import java.util.function.BiConsumer;
 import inzhefop.extrautilitiesrebirth.init.ExtrautilitiesrebirthModTabs;
 import inzhefop.extrautilitiesrebirth.init.ExtrautilitiesrebirthModParticleTypes;
 import inzhefop.extrautilitiesrebirth.init.ExtrautilitiesrebirthModItems;
+import inzhefop.extrautilitiesrebirth.init.ExtrautilitiesrebirthModFeatures;
 import inzhefop.extrautilitiesrebirth.init.ExtrautilitiesrebirthModBlocks;
 import inzhefop.extrautilitiesrebirth.init.ExtrautilitiesrebirthModBlockEntities;
 
@@ -52,6 +53,7 @@ public class ExtrautilitiesrebirthMod {
 		ExtrautilitiesrebirthModItems.REGISTRY.register(bus);
 
 		ExtrautilitiesrebirthModBlockEntities.REGISTRY.register(bus);
+		ExtrautilitiesrebirthModFeatures.REGISTRY.register(bus);
 
 		ExtrautilitiesrebirthModParticleTypes.REGISTRY.register(bus);
 	}

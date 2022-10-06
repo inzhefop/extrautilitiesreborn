@@ -125,6 +125,8 @@ public class ExtrautilitiesrebirthModItems {
 	public static final RegistryObject<Item> CREATIVE_HARVEST = block(ExtrautilitiesrebirthModBlocks.CREATIVE_HARVEST,
 			ExtrautilitiesrebirthModTabs.TAB_TAB);
 	public static final RegistryObject<Item> CURSED_EARTH = block(ExtrautilitiesrebirthModBlocks.CURSED_EARTH, ExtrautilitiesrebirthModTabs.TAB_TAB);
+	public static final RegistryObject<Item> ENDER_LILLY_ENDSTONE = block(ExtrautilitiesrebirthModBlocks.ENDER_LILLY_ENDSTONE,
+			ExtrautilitiesrebirthModTabs.TAB_TAB);
 	public static final RegistryObject<Item> ENDER_INFUSED_OBSIDIAN = block(ExtrautilitiesrebirthModBlocks.ENDER_INFUSED_OBSIDIAN,
 			ExtrautilitiesrebirthModTabs.TAB_TAB);
 	public static final RegistryObject<Item> ENDER_CORE = block(ExtrautilitiesrebirthModBlocks.ENDER_CORE, ExtrautilitiesrebirthModTabs.TAB_TAB);

@@ -76,7 +76,7 @@
     "speedFactor": 1.0,
     "jumpFactor": 1.0,
     "reactionToPushing": "NORMAL",
-    "isNotColidable": false,
+    "isNotColidable": true,
     "isCustomSoundType": false,
     "soundOnStep": {
       "value": "PLANT"
@@ -135,6 +135,9 @@
     "onDestroyedByExplosion": {
       "name": "EnderLillyDestroyedProcedure"
     },
+    "onEntityCollides": {
+      "name": "EnderLillyStage8Colider"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [
@@ -144,8 +147,11 @@
     ],
     "generationShape": "UNIFORM",
     "frequencyPerChunks": 32,
-    "frequencyOnChunk": 2,
-    "minGenerateHeight": 55,
-    "maxGenerateHeight": 63
+    "frequencyOnChunk": 4,
+    "minGenerateHeight": 50,
+    "maxGenerateHeight": 80,
+    "generateCondition": {
+      "name": "EnderLillyStage1AdditionalGenerationCondition"
+    }
   }
 }

@@ -5913,13 +5913,13 @@
   "language_map": {
     "en_us": {
       "block.extrautilitiesrebirth.polished_stone": "Polished Stone",
-      "item.extrautilitiesrebirth.healing_axe": "Healing Axe",
       "block.extrautilitiesrebirth.angel_block": "Angel Block",
+      "item.extrautilitiesrebirth.healing_axe": "Healing Axe",
       "block.extrautilitiesrebirth.glass_bricks": "Glass Bricks",
       "block.extrautilitiesrebirth.tnt_generator": "TNT Generator",
       "item.extrautilitiesrebirth.advanced_chicken_wing_ring": "Advanced Chicken Wing Ring",
-      "block.extrautilitiesrebirth.redstone_generator": "Redstone Generator",
       "block.extrautilitiesrebirth.ender_generator": "Ender Generator",
+      "block.extrautilitiesrebirth.redstone_generator": "Redstone Generator",
       "block.extrautilitiesrebirth.creative_energy_storage": "Creative Energy Storage",
       "block.extrautilitiesrebirth.sandy_glass": "Sandy Glass",
       "item.extrautilitiesrebirth.upgrade_base": "Upgrade Base",
@@ -6222,7 +6222,7 @@
   "workspaceSettings": {
     "modid": "extrautilitiesrebirth",
     "modName": "Extra Utilities Rebirth",
-    "version": "1.7.1",
+    "version": "1.7.2",
     "description": "RELEASE",
     "author": "inzhefop",
     "websiteURL": "https://www.curseforge.com/members/inzhefop/projects",

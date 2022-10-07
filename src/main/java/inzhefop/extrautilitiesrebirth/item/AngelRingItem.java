@@ -16,11 +16,10 @@ import net.minecraft.network.chat.Component;
 import java.util.List;
 
 import inzhefop.extrautilitiesrebirth.procedures.AngelRingMessageProcedure;
-import inzhefop.extrautilitiesrebirth.init.ExtrautilitiesrebirthModTabs;
 
 public class AngelRingItem extends Item {
 	public AngelRingItem() {
-		super(new Item.Properties().tab(ExtrautilitiesrebirthModTabs.TAB_TAB).stacksTo(1).rarity(Rarity.COMMON));
+		super(new Item.Properties().tab(null).stacksTo(1).rarity(Rarity.COMMON));
 	}
 
 	@Override

@@ -5845,6 +5845,32 @@
       "locked_code": false,
       "registry_name": "ender_lilly_endstone",
       "path": "~/Misc"
+    },
+    {
+      "name": "UnstableNuggetRCP2",
+      "type": "recipe",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unstable_nugget_rcp_2",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "PlayerFalls",
+      "type": "procedure",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "player_falls",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Items/Misc"
     }
   ],
   "variable_elements": [
@@ -6222,7 +6248,7 @@
   "workspaceSettings": {
     "modid": "extrautilitiesrebirth",
     "modName": "Extra Utilities Rebirth",
-    "version": "1.7.2",
+    "version": "1.7.3",
     "description": "RELEASE",
     "author": "inzhefop",
     "websiteURL": "https://www.curseforge.com/members/inzhefop/projects",

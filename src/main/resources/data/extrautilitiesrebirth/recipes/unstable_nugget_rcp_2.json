@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extrautilitiesrebirth:unstable_ingot"
+    }
+  ],
+  "result": {
+    "item": "extrautilitiesrebirth:unstable_nugget",
+    "count": 9
+  }
+}

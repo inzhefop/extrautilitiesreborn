@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "evil_infused_ingot",
+    "texture": "evil_ingot_2",
     "customModelName": "Normal",
     "name": "Evil Infused Iron Ingot",
     "rarity": "COMMON",

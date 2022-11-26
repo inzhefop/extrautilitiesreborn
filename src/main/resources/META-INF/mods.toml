@@ -28,4 +28,10 @@ RELEASE
     versionRange="[0,)"
     ordering="NONE"
     side="BOTH"
+[[dependencies.extrautilitiesrebirth]]
+    modId="jei"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 

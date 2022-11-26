@@ -5871,6 +5871,14 @@
         ]
       },
       "path": "~/Items/Misc"
+    },
+    {
+      "name": "JeiPlugin",
+      "type": "code",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "jei_plugin"
     }
   ],
   "variable_elements": [
@@ -5939,13 +5947,13 @@
   "language_map": {
     "en_us": {
       "block.extrautilitiesrebirth.polished_stone": "Polished Stone",
-      "block.extrautilitiesrebirth.angel_block": "Angel Block",
       "item.extrautilitiesrebirth.healing_axe": "Healing Axe",
+      "block.extrautilitiesrebirth.angel_block": "Angel Block",
       "block.extrautilitiesrebirth.glass_bricks": "Glass Bricks",
       "block.extrautilitiesrebirth.tnt_generator": "TNT Generator",
       "item.extrautilitiesrebirth.advanced_chicken_wing_ring": "Advanced Chicken Wing Ring",
-      "block.extrautilitiesrebirth.ender_generator": "Ender Generator",
       "block.extrautilitiesrebirth.redstone_generator": "Redstone Generator",
+      "block.extrautilitiesrebirth.ender_generator": "Ender Generator",
       "block.extrautilitiesrebirth.creative_energy_storage": "Creative Energy Storage",
       "block.extrautilitiesrebirth.sandy_glass": "Sandy Glass",
       "item.extrautilitiesrebirth.upgrade_base": "Upgrade Base",
@@ -6259,7 +6267,8 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [
-      "allmods"
+      "allmods",
+      "jei"
     ],
     "currentGenerator": "forge-1.18.2",
     "credits": "Hi",

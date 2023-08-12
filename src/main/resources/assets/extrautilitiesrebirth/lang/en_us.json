@@ -169,5 +169,8 @@
   "item.extrautilitiesrebirth.golden_bag_of_holding": "Golden Bag Of Holding",
   "block.extrautilitiesrebirth.ender_quarry_silk_touch_upgrade_2": "Ender Quarry Speed II Upgrade",
   "item.extrautilitiesrebirth.ender_shard": "Ender Shard",
-  "block.extrautilitiesrebirth.ender_quarry_silk_touch_upgrade_3": "Ender Quarry Speed III Upgrade"
+  "block.extrautilitiesrebirth.ender_quarry_silk_touch_upgrade_3": "Ender Quarry Speed III Upgrade",
+  "tooltip.extrautilitiesrebirth.etherial_glass": "Non-solid to players, solid while sneaking",
+  "tooltip.extrautilitiesrebirth.ineffable_inverted_glass": "Solid to players, non-solid while sneaking",
+  "tooltip.extrautilitiesrebirth.reinforced_dark_glass": "Dragon and Wither immune"
 }

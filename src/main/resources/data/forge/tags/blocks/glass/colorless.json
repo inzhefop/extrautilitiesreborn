@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+	"extrautilitiesrebirth:clean_glass",
+	"extrautilitiesrebirth:creeper_glass",
+	"extrautilitiesrebirth:edged_glass",
+	"extrautilitiesrebirth:ethereal_glass",
+	"extrautilitiesrebirth:glass_bricks",
+	"extrautilitiesrebirth:golden_edged_glass",
+	"extrautilitiesrebirth:ineffable_glass",
+	"extrautilitiesrebirth:ineffable_inverted_glass",
+	"extrautilitiesrebirth:obsidian_glass",
+	"extrautilitiesrebirth:square_glass",
+	"extrautilitiesrebirth:swirling_glass"
+  ]
+}

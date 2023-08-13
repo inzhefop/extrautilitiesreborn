@@ -1,7 +1,99 @@
 {
   "variants": {
-    "": {
-      "model": "extrautilitiesrebirth:block/creeper_glass"
+    "facing=north": {
+      "model": "extrautilitiesrebirth:block/creeper_glass_north",
+      "ctm": {
+        "ctm_version": 1,
+        "type": "SCTM",
+        "layer": "TRANSLUCENT",
+        "textures": [
+          "extrautilitiesrebirth:blocks/creeper_glass_north-ctm"
+        ],
+        "extra": {
+          "connect_to": [
+            {
+              "block": "extrautilitiesrebirth:creeper_glass",
+              "predicate": [
+                {
+                  "facing": "north"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "facing=east": {
+      "model": "extrautilitiesrebirth:block/creeper_glass_east",
+      "y": 90,
+      "ctm": {
+        "ctm_version": 1,
+        "type": "SCTM",
+        "layer": "TRANSLUCENT",
+        "textures": [
+          "extrautilitiesrebirth:blocks/creeper_glass_east-ctm"
+        ],
+        "extra": {
+          "connect_to": [
+            {
+              "block": "extrautilitiesrebirth:creeper_glass",
+              "predicate": [
+                {
+                  "facing": "east"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "facing=south": {
+      "model": "extrautilitiesrebirth:block/creeper_glass_south",
+      "y": 180,
+      "ctm": {
+        "ctm_version": 1,
+        "type": "SCTM",
+        "layer": "TRANSLUCENT",
+        "textures": [
+          "extrautilitiesrebirth:blocks/creeper_glass_south-ctm"
+        ],
+        "extra": {
+          "connect_to": [
+            {
+              "block": "extrautilitiesrebirth:creeper_glass",
+              "predicate": [
+                {
+                  "facing": "south"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "facing=west": {
+      "model": "extrautilitiesrebirth:block/creeper_glass_west",
+      "y": 270,
+      "ctm": {
+        "ctm_version": 1,
+        "type": "SSCTM",
+        "layer": "TRANSLUCENT",
+        "textures": [
+          "extrautilitiesrebirth:blocks/creeper_glass_west-ctm"
+        ],
+        "extra": {
+          "connect_to": [
+            {
+              "block": "extrautilitiesrebirth:creeper_glass",
+              "predicate": [
+                {
+                  "facing": "west"
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
   }
 }

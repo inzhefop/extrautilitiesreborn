@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "extrautilitiesrebirth:blocks/ineffable_glas",
-    "up": "extrautilitiesrebirth:blocks/ineffable_glas",
-    "north": "extrautilitiesrebirth:blocks/ineffable_glas",
-    "east": "extrautilitiesrebirth:blocks/ineffable_glas",
-    "south": "extrautilitiesrebirth:blocks/ineffable_glas",
-    "west": "extrautilitiesrebirth:blocks/ineffable_glas",
-    "particle": "extrautilitiesrebirth:blocks/ineffable_glas"
+    "down": "extrautilitiesrebirth:blocks/ineffable_glass",
+    "up": "extrautilitiesrebirth:blocks/ineffable_glass",
+    "north": "extrautilitiesrebirth:blocks/ineffable_glass",
+    "east": "extrautilitiesrebirth:blocks/ineffable_glass",
+    "south": "extrautilitiesrebirth:blocks/ineffable_glass",
+    "west": "extrautilitiesrebirth:blocks/ineffable_glass",
+    "particle": "extrautilitiesrebirth:blocks/ineffable_glass"
   }
 }

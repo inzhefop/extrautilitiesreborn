@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extrautilitiesrebirth:blocks/creeper_glass_east",
+    "up": "extrautilitiesrebirth:blocks/creeper_glass_east",
+    "north": "extrautilitiesrebirth:blocks/creeper_glass_north",
+    "east": "extrautilitiesrebirth:blocks/creeper_glass_north",
+    "south": "extrautilitiesrebirth:blocks/creeper_glass_north",
+    "west": "extrautilitiesrebirth:blocks/creeper_glass_north",
+    "particle": "extrautilitiesrebirth:blocks/creeper_glass_north"
+  }
+}

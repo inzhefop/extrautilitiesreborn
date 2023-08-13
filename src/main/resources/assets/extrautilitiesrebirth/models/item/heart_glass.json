@@ -1,5 +1,5 @@
 {
-  "parent": "extrautilitiesrebirth:block/heart_glass",
+  "parent": "extrautilitiesrebirth:block/heart_glass_north",
   "display": {
     "thirdperson": {
       "rotation": [

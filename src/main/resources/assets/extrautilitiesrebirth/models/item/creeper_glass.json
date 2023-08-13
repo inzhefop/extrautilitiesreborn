@@ -1,5 +1,5 @@
 {
-  "parent": "extrautilitiesrebirth:block/creeper_glass",
+  "parent": "extrautilitiesrebirth:block/creeper_glass_north",
   "display": {
     "thirdperson": {
       "rotation": [

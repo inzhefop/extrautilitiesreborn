@@ -4,7 +4,7 @@
         "type": "ctm",
         "layer": "TRANSLUCENT",
         "textures": [
-            "extrautilitiesrebirth:blocks/glass_bricks-ctm"
-        ]
+			"extrautilitiesrebirth:blocks/creeper_glass_east-ctm"
+		]
     }
 }

@@ -12,7 +12,7 @@ import org.jetbrains.annotations.NotNull;
 import java.util.Collections;
 import java.util.List;
 
-public class ModAbstractGlassBlock extends AbstractGlassBlock {
+public abstract class ModAbstractGlassBlock extends AbstractGlassBlock {
 
     protected ModAbstractGlassBlock() {
         super(BlockBehaviour.Properties.of(Material.GLASS)

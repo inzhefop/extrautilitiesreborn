@@ -172,5 +172,6 @@
   "block.extrautilitiesrebirth.ender_quarry_silk_touch_upgrade_3": "Ender Quarry Speed III Upgrade",
   "tooltip.extrautilitiesrebirth.etherial_glass": "Non-solid to players, solid while sneaking",
   "tooltip.extrautilitiesrebirth.ineffable_inverted_glass": "Solid to players, non-solid while sneaking",
-  "tooltip.extrautilitiesrebirth.reinforced_dark_glass": "Dragon and Wither immune"
+  "tooltip.extrautilitiesrebirth.reinforced_dark_glass": "Dragon and Wither immune",
+  "tooltip.extrautilitiesrebirth.dark_glass": "Blocks light"
 }

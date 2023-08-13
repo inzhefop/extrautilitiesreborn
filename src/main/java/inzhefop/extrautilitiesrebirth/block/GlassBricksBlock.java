@@ -1,6 +1,6 @@
 package inzhefop.extrautilitiesrebirth.block;
 
-public class GlassBricksBlock extends ModAbstractGlassBlock {
+public class GlassBricksBlock extends AbstractRotatingGlassBlock {
 	public GlassBricksBlock() {
 		super();
 	}

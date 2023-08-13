@@ -42,5 +42,4 @@ public class EtherealGlassBlock extends ModAbstractGlassBlock {
 		list.add(new TranslatableComponent("tooltip.extrautilitiesrebirth.etherial_glass").withStyle(ChatFormatting.GRAY));
 	}
 
-
 }
